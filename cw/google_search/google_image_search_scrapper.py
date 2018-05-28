@@ -87,4 +87,8 @@ if __name__ == '__main__':
     import sys
     args = sys.argv
     this_filename, i = args
-    gen_urls_func(int(i))
+    from traceback import format_exc
+    try:
+        gen_urls_func(int(i))
+    except (Exception, ) as e:
+        print(format_exc())
