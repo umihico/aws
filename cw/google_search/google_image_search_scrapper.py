@@ -70,9 +70,6 @@ def gen_urls_func(url):
 
 
 def gen_urls_repeater(first_i=0):
-    """tbs=qdr:w is 1 week
-    url = "https://www.google.co.jp/search?q=組織図&tbm=isch&tbs=qdr:w"
-    """
     results = []
     list_of_list = csv_wrapper.xlsx_to_list_of_list("combined_names.xlsx")
     search_words = [x[0] for x in list_of_list]
