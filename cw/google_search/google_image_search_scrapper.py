@@ -68,13 +68,13 @@ def gen_urls_func(i):
         if len(soshikizu_bools) > 100:
             soshikizu_bools.pop(0)
         rate = len_okay_soshikizu_bools / len_soshikizu_bools
-        if len(soshikizu_bools) == 100 and rate < 0.05:
+        if len(soshikizu_bools) == 100 and rate < 0.1:
             break
         print(len_okay_soshikizu_bools,
               len_soshikizu_bools, round(rate, ndigits=3))
     c.quit()
     text = '\n'.join(
-        [image_url + ',' + hp_url for image_url, hp_url in results]) + '\n'
+        [i + ',' + image_url + ',' + hp_url for image_url, hp_url in results]) + '\n'
     with open("results.txt", 'a') as f:
         f.write(text)
 
