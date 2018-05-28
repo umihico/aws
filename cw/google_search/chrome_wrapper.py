@@ -59,6 +59,11 @@ def _gen_ChromeOptions(userAgent, cookie_key, headless):
     options = webdriver.ChromeOptions()
     options.add_argument("--disable-infobars")
     options.add_argument("user-agent=" + userAgent)
+    """added to fix aws linux error"""
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-gpu')
+    options.add_argument('--window-size=1280,1024')
+    """added to fix aws linux error end"""
     # options.add_extension(r"cboljikjholhcbejolmkhhpmomhcodkc.crx")
     if headless:
         options.add_argument("--headless")
@@ -135,7 +140,6 @@ class Chrome(webdriver.Chrome):
         kwargs = {
             'chrome_options': _gen_ChromeOptions(userAgent, cookie_key, headless),
             'desired_capabilities': _gen_desired_capabilities(userAgent)}
-        kwargs = {}
         try:
             super().__init__(**kwargs)
         except (Exception, ) as e:
