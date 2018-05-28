@@ -31,7 +31,10 @@ def gen_urls_func(i):
         element_int += 1
         # if element_int > 300:
         #     raise StopIteration
-        image_element.click()
+        try:
+            image_element.click()
+        except (Exception, ) as e:
+            break
         # sleep(0.1)
         divs = c.xpath_lxml("//div[@id='irc_cc']/div")
         # for image_url, hp_url, description in zip(image_urls, hp_urls, descriptoins):
