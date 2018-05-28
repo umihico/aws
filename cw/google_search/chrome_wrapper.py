@@ -135,6 +135,7 @@ class Chrome(webdriver.Chrome):
         kwargs = {
             'chrome_options': _gen_ChromeOptions(userAgent, cookie_key, headless),
             'desired_capabilities': _gen_desired_capabilities(userAgent)}
+        kwargs = {}
         try:
             super().__init__(**kwargs)
         except (Exception, ) as e:
