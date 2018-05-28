@@ -63,6 +63,7 @@ def _gen_ChromeOptions(userAgent, cookie_key, headless):
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-gpu')
     options.add_argument('--window-size=1280,1024')
+    options.add_argument("--headless")
     """added to fix aws linux error end"""
     # options.add_extension(r"cboljikjholhcbejolmkhhpmomhcodkc.crx")
     if headless:
