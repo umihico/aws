@@ -92,4 +92,4 @@ if __name__ == '__main__':
     import sys
     args = sys.argv
     this_filename, i = args
-    gen_urls_repeater(i)
+    gen_urls_repeater(int(i))
