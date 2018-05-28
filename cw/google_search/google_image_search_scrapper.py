@@ -2,7 +2,11 @@ from chrome_wrapper import Chrome, Keys
 import csv_wrapper
 
 
-def gen_urls_func(url):
+def gen_urls_func(i):
+    list_of_list = csv_wrapper.xlsx_to_list_of_list("combined_names.xlsx")
+    search_word = [x[0] for x in list_of_list][i]
+    del list_of_list
+    url = f"https://www.google.co.jp/search?q={search_word}&tbm=isch"
     c = Chrome()
     c.get(url)
     image_xpath = "//a[@class='rg_l']/img"
@@ -66,30 +70,14 @@ def gen_urls_func(url):
         print(len_okay_soshikizu_bools,
               len_soshikizu_bools, round(rate, ndigits=3))
     c.quit()
-    return results
-
-
-def gen_urls_repeater(first_i=0):
-    results = []
-    list_of_list = csv_wrapper.xlsx_to_list_of_list("combined_names.xlsx")
-    search_words = [x[0] for x in list_of_list]
-    # this_is_second_time = False
-    for i, search_word in enumerate(search_words):
-        # if this_is_second_time:
-            # raise StopIteration
-        print(i, search_word)
-        if i < first_i:
-            continue
-        # this_is_second_time = True
-        url = f"https://www.google.co.jp/search?q={search_word}&tbm=isch"
-        new_results = gen_urls_func(url)
-        for image_url, hp_url in new_results:
-            results.append((image_url, hp_url, i))
-        csv_wrapper.xlsx_from_list_of_list('urls.xlsx', results)
+    text = '\n'.join(
+        [image_url + ',' + hp_url for image_url, hp_url in results]) + '\n'
+    with open("results.txt", 'a') as f:
+        f.write(text)
 
 
 if __name__ == '__main__':
     import sys
     args = sys.argv
     this_filename, i = args
-    gen_urls_repeater(int(i))
+    gen_urls_func(int(i))
