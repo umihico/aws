@@ -60,6 +60,8 @@ def gen_urls_func(i):
                 soshikizu_bools.append(True)
                 print(image_url)
                 print(hp_url)
+                print(search_word)
+                print(i)
                 results.append((image_url, hp_url))
             else:
                 soshikizu_bools.append(False)
