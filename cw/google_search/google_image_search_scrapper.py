@@ -89,4 +89,7 @@ def gen_urls_repeater(first_i=0):
 
 
 if __name__ == '__main__':
-    gen_urls_repeater()
+    import sys
+    args = sys.argv
+    this_filename, i = args
+    gen_urls_repeater(i)
