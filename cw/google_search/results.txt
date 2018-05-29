@@ -11506,3 +11506,9 @@
 97,https://www.bpsinc.jp/img/content/img-epub-file-organization.png,https://www.bpsinc.jp/epub.html
 97,http://www.museology.jp/Museum2015/navi4.png,http://www.museology.jp/Museum2015/organizations.html
 97,http://www.topp11.com/_src/sc351/002.jpg,http://www.topp11.com/sakurai.html
+98,https://s3-ap-northeast-1.amazonaws.com/qiita-organization-image/75f040ee6f08d470255db7581b4e2016666d4a5b/original.jpg?1478495284,https://qiita.com/organizations/mamezou
+98,https://www.nextry.net/img/company/img_organization_sp.jpg,https://www.nextry.net/company/
+98,https://ano-kono.ehime.jp/job/500473/image/JOBOFFER_IMAGE_PRIMARY,https://ano-kono.ehime.jp/organization/10103
+98,https://s3-ap-northeast-1.amazonaws.com/qiita-organization-image/139beb758bc5d89819e3493d24cde1d2b58329b5/original.jpg?1525163604,https://qiita.com/organizations?page=4
+98,http://www.fujita.co.jp/company/images/organization_ph01.png,http://www.fujita.co.jp/company/organization.html
+98,http://www.jgma.org/wp-content/uploads/2017/12/201701208_organization_.jpg,https://search.yahoo.co.jp/image/search?ei=UTF-8&fr=lmd_poi&p=%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%8D%94%E6%BB%8B%E9%89%84%E5%B7%A5%E6%89%80
