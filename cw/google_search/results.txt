@@ -11466,3 +11466,8 @@
 95,http://www.am-one.co.jp/img/company/6/img_ja.png,http://www.am-one.co.jp/company/organization/
 95,http://www.toyo-eng.com/jp/ja/tps/company/images/bt-organization.jpg,http://www.toyo-eng.com/jp/ja/tps/company/
 95,http://www.dama-japan.org/images/Organization/kiyama.jpg,http://www.dama-japan.org/organization.html
+96,http://www.nanyoshishakyo.or.jp/images/about-organization01_20150701.jpg,http://www.nanyoshishakyo.or.jp/about.html
+96,http://www.tokyonanyoukai.jp/images/organization_img.jpg,http://www.tokyonanyoukai.jp/organization.html
+96,https://s3-ap-northeast-1.amazonaws.com/qiita-organization-image/582e9f79e0e6aec793fac8f35698774fa7fc4074/original.jpg?1489465426,https://qiita.com/organizations/uchidayoko
+96,https://www.mijs.jp/wp-content/uploads/2013/10/organization-map.jpg,https://www.mijs.jp/organization
+96,https://www.primagest.co.jp/images/page/company/organization/organization.png,https://www.primagest.co.jp/company/organization.html
