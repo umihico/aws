@@ -12179,3 +12179,13 @@
 112,http://nagoya-ad.jp/images/outline/organization.png,http://nagoya-ad.jp/
 112,https://www.shibuyabunka.com/img/blog/1470729370/1470865626.jpg,https://www.shibuyabunka.com/blog.php?id=801&wovn=en
 112,https://i.pinimg.com/236x/02/87/eb/0287eb9c45d497e55a079471edac6b28--monochrome-organization.jpg,https://www.pinterest.jp/pin/483574078718169040/
+113,http://www.tokaitokyo-fh.jp/img/corporate/soshiki.gif,http://www.tokaitokyo-fh.jp/corporate/profile/organization.html
+113,https://www.takagi-sec.co.jp/corporate/img/organization-img-01.png,https://www.takagi-sec.co.jp/corporate/organization.html
+113,https://www.millcreek.jp/network/images/organization/ph/org_09.jpg,https://www.millcreek.jp/network/
+113,http://www.matsumotokiyoshi-hd.co.jp/image/pho_company_organizationchart.jpg,http://www.matsumotokiyoshi-hd.co.jp/company/info.html
+113,https://www.tokyu-land.co.jp/images/second/company/about/organization1804.jpg,https://www.tokyu-land.co.jp/company/about/organization.html
+113,http://www.hokuhokutt.co.jp/about/organization/images/img01.gif,http://www.hokuhokutt.co.jp/about/organization/
+113,http://www.alco-group.com/html/images/company/organization_en.png,http://www.alco-group.com/html/company_en.html
+113,http://www.aed-zaidan.jp/images/about/organization_SP.png,http://www.aed-zaidan.jp/about/
+113,http://www.jahi.jp/image/organization.jpg,http://www.jahi.jp/organization.html
+113,http://www.fujiei.co.jp/images/organization_sp.gif?1611,http://www.fujiei.co.jp/company/info/
