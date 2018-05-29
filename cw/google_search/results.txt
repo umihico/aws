@@ -11433,3 +11433,7 @@
 92,http://www.yasui-archi.co.jp/images/uploads/2013/01/org2017jpn.jpg,http://imayomu-kentiku.jp/?p=2873
 92,https://www.nikkakyo.org/organizations/jrcc/news/no64/images/d01.jpg,https://www.nikkakyo.org/organizations/jrcc/news/no64/d.html
 92,https://www.nikkakyo.org/organizations/jrcc/news/no53/images/c02.jpg,https://www.nikkakyo.org/organizations/jrcc/news/no53/c.html
+93,http://www.nikkeipr.co.jp/wp-content/uploads/2017/04/organization.html_180327.png,http://www.nikkeipr.co.jp/aboutus/organization.html/
+93,https://i.ytimg.com/vi/5IS8ZOhbOFw/hqdefault.jpg,http://wn.com/The_Sapporo_Funk_Organization_Grand_Prix_PV
+93,http://www.smfg.co.jp/company/organization/hrs/img/organization_wlb_06.png,http://www.smfg.co.jp/company/organization/hrs/wlb.html
+93,http://tech.nikkeibp.co.jp/it/atcliti/supporters/032900010/microsoft.png,http://tech.nikkeibp.co.jp/it/atcliti/supporters/032900010/
