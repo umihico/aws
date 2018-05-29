@@ -11295,3 +11295,12 @@
 77,http://keiei-manabu.com/img/organizational-form2.jpg,http://keiei-manabu.com/strategy/organizational-form.html
 77,http://k-m-c.biz/leadconcept.jpg,http://k-m-c.biz/blog1.html
 77,http://www.neg.co.jp/uploads/rd_organization.jpg,http://www.neg.co.jp/ir/situation/
+78,https://www.i-guazu.co.jp/corporate/kaisyagaiyou/images/organization2018,https://www.i-guazu.co.jp/corporate/kaisyagaiyou/
+78,http://www.gsc.co.jp/gschp7/wp-content/uploads/2018/05/organization201805.jpg,http://www.gsc.co.jp/outline/
+78,https://p-prom.com/wp-content/uploads/2015/07/IMG_0714.jpg,https://p-prom.com/organization/?p=838
+78,https://www.connected-home.jp/img/img_organization01.png,https://www.connected-home.jp/organization.html
+78,https://p-prom.com/wp-content/uploads/2015/10/595f700c48430bdd784f5b848bb8d74c.jpg,https://p-prom.com/organization/?p=2892
+78,https://image.slidesharecdn.com/uikouazurepostgresqlver1-170621081553/95/db-tech-showcase-oss-2017-a24-oss-database-azure-database-for-mysql-postgresql-by-1-638.jpg?cb=1498032986,https://www.slideshare.net/InsightTechnology/dbtsoss2017-a24-microsoft
+78,http://www.toshiba-tcs.co.jp/profile/t_images/organization.jpg,http://www.toshiba-tcs.co.jp/profile/outline.html
+78,http://www.n-mec.com/company/img/organization.png,http://www.n-mec.com/company/
+78,http://www.asware.jp/images/organization_20171201n.png,http://www.asware.jp/company.html
