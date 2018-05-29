@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in `seq 476 -1 19`
+for i in `seq 473 -1 36`
 do
     python google_image_search_scrapper.py $i
     git add results.txt

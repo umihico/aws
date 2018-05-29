@@ -32,9 +32,11 @@ def gen_urls_func(i, filename="results.txt"):
                 image_element = image_elements[element_int]
             except (IndexError, ) as e:
                 try:
-                    c.xpath("//input[@id='smb']").click()
+                    next_buttons = c.xpath("//input[@id='smb']")
+                    if len(next_buttons) > 0:
+                        next_buttons[0].click()
                 except (Exception, ) as e:
-                    pass
+                    print(format_exc())
                 try:
                     image_element = image_elements[element_int]
                 except (IndexError, ) as e:
@@ -45,8 +47,10 @@ def gen_urls_func(i, filename="results.txt"):
             try:
                 image_element.click()
             except (Exception, ) as e:
+                print("error image_element.click()")
+                print(e)
                 break
-            # sleep(0.1)
+            sleep(1)
             divs = c.xpath_lxml("//div[@id='irc_cc']/div")
             # for image_url, hp_url, description in zip(image_urls, hp_urls, descriptoins):
             for div in divs:
@@ -54,8 +58,6 @@ def gen_urls_func(i, filename="results.txt"):
                 image_url = div.xpath(".//img[@class='irc_mi']/@src")
                 # //div[@id='irc_cc']/div[2]//img[@class='irc_mi']/@src
                 hp_url = div.xpath(".//img[@class='irc_mi']/../@href")
-                if max(map(len, [description, image_url, hp_url])) > 1:
-                    raise
                 description = description[0].text_content() if len(
                     description) > 0 else ""
                 image_url = str(image_url[0]) if len(
@@ -85,9 +87,9 @@ def gen_urls_func(i, filename="results.txt"):
             #     break
             len_soshikizu_bools = len(soshikizu_bools)
             len_okay_soshikizu_bools = len(list(filter(bool, soshikizu_bools)))
-            if len(soshikizu_bools) > 100:
+            if len_soshikizu_bools > 100:
                 soshikizu_bools.pop(0)
-            rate = len_okay_soshikizu_bools / element_int
+            rate = len_okay_soshikizu_bools / len_soshikizu_bools
             if element_int > 100 and rate < 0.1:
                 break
             print(len_okay_soshikizu_bools,
