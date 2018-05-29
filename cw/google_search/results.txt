@@ -11437,3 +11437,12 @@
 93,https://i.ytimg.com/vi/5IS8ZOhbOFw/hqdefault.jpg,http://wn.com/The_Sapporo_Funk_Organization_Grand_Prix_PV
 93,http://www.smfg.co.jp/company/organization/hrs/img/organization_wlb_06.png,http://www.smfg.co.jp/company/organization/hrs/wlb.html
 93,http://tech.nikkeibp.co.jp/it/atcliti/supporters/032900010/microsoft.png,http://tech.nikkeibp.co.jp/it/atcliti/supporters/032900010/
+94,http://www.sustainablebrands.jp/news/tr/detail/__icsFiles/afieldfile/2018/05/17/sekisui-chemical_csr-graphic.jpg,http://www.sustainablebrands.jp/news/tr/detail/1190449_2430.html
+94,https://www.ecostyle-fund.com/image/corporate_profile/organization.jpg,https://www.ecostyle-fund.com/corporate_profile/
+94,http://nasser.c.blog.so-net.ne.jp/_images/blog/_f94/nasser/group-assignment-pn-g-organization-2005-14-638.jpg,http://nasser.blog.so-net.ne.jp/archive/c2305179062-1
+94,https://www.jmar.co.jp/menu/bus08.jpg,https://www.jmar.co.jp/job/organization/index.html
+94,https://kyonaka-gozan.kyoto/media/organization-chart-1.png,https://kyonaka-gozan.kyoto/system/
+94,http://www.tow.co.jp/images/company/com_organization.png,http://www.tow.co.jp/company/outline.html
+94,http://www.jiaa.org/dbps_data/_material_/localhost/release/organization2017.png,http://www.jiaa.org/release/release_policy_170609.html
+94,https://www.genecom.co.jp/images/organization-chart.png,https://www.genecom.co.jp/company/
+94,https://airy.net/wp-content/uploads/2018/05/20180511_%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC01_l-1.jpg,https://airy.net/column/office/organizational-culture/87/
