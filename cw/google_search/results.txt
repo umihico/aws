@@ -6642,3 +6642,9 @@
 476,https://www.ntt.com/content/dam/nttcom/hq/jp/about-us/company-profile/organization/img/B02-010-otemachi.gif,https://www.ntt.com/about-us/company-profile/organization/B02-013/B02-010-otemachi.html
 476,http://www.ntt-f.co.jp/english/images/zu_organization.gif,http://www.ntt-f.co.jp/english/organization.html
 476,http://www.gunjap.net/site/wp-content/uploads/2012/03/4280.jpg,http://www.gunjap.net/site/?p=55589
+475,https://www.cccnevada.com/wp-content/uploads/Dr.-Obara-2015-670x500.jpg,https://www.honsha.org/index.php/leading-a-lean-organization-sammy-obara-honsha-org-part-2-of-3/
+475,https://fc09.deviantart.net/fs71/f/2012/267/5/9/group_thing_by_az_productions-d5fpqtz.png,https://organization-ocs.deviantart.com/
+475,http://engageduniversity.blogs.wesleyan.edu/files/2016/04/wesCFPA-1024x680.jpg,http://engageduniversity.blogs.wesleyan.edu/2016/04/25/ocs-hiring-coordinators/
+475,http://www.allgalgaduud.net/wp-content/uploads/2018/01/kenyati-okk.jpg,http://www.allgalgaduud.net/2018/01/26/rights-group-wants-kdf-withdrawn-from-somalia/
+475,https://p10cdn4static.sharpschool.com/UserFiles/Servers/Server_216715/Image/District%20Information/Departments/Media%20&%20Community%20Relations/District%20Newsletters/April%208,%202016/1.jpg,https://lakota.ss10.sharpschool.com/cms/one.aspx?portalId=216799&pageId=285578
+475,http://www.reiyukai-usa.org/wp-content/uploads/2017/02/IMG_3017.jpg,http://www.reiyukai-usa.org/archives/date/2016/08
