@@ -7452,3 +7452,6 @@
 40,http://www.niplo.co.jp/common/images/company/orgz_1.jpg,http://www.niplo.co.jp/company_pages/organization.php
 40,http://www.med.osaka-u.ac.jp/wp-content/uploads//introduction/organization/organization_strategic.jpg,http://www.med.osaka-u.ac.jp/introduction/organization/strategicandcross-2-2
 40,http://www.dm-c.co.jp/images/organization/tree_pc.png,http://www.dm-c.co.jp/company/organization.html
+41,https://www.htk-jp.com/corporate/images/organization_img001a.gif,https://www.htk-jp.com/corporate/organization.html
+41,http://www.mansei.co.jp/company/img/organization-map130401.gif,http://www.mansei.co.jp/company/organization.html
+41,https://www.jeiu.or.jp/images/sub/sec/organization.jpg,https://www.jeiu.or.jp/what/organization/cat4/
