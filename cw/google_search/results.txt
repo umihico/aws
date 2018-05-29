@@ -11379,3 +11379,12 @@
 87,http://www.wgs.co.jp/images/organizational_chart.jpg,http://www.wgs.co.jp/outline.html
 87,https://www.ceciliafund.org/cfundnew/wp-content/uploads/2016/09/table.jpg,https://www.ceciliafund.org/2017/02/10/125th/
 87,http://www.cabinet-box.jp/images/organization.jpg,http://www.cabinet-box.jp/
+88,https://seiko.nssmc.com/common/images/company/outline/organization_chart.png,https://seiko.nssmc.com/company/outline/
+88,http://www.tex.nssmc.com/img/company/organization.gif,http://www.tex.nssmc.com/company/organization.html
+88,https://nsri.nssmc.com/img/company/organization_201804.png,https://nsri.nssmc.com/company
+88,http://www.eco-tech.nssmc.com/corporate/img/organization_01.jpg,http://www.eco-tech.nssmc.com/corporate/organization/
+88,http://www.nsb-kashima.nssmc.com/company/img/img_organization.png,http://www.nsb-kashima.nssmc.com/company/outline/index.html
+88,http://www.nssb-matex.com/images/corp/org_01.png,http://www.nssb-matex.com/corp/organization.html
+88,http://www.nssb.nssmc.com/corporate/images/chart2.png,http://www.nssb.nssmc.com/corporate/organization.html
+88,http://www.fuji-tekkou.co.jp/assets/images/company/index/image_organization.png,http://www.fuji-tekkou.co.jp/company/
+88,http://www.tex-sol.com/files/jp/company/outline/images/img_organization.gif,http://www.tex-sol.com/company/outline/
