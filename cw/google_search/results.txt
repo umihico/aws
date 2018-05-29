@@ -12608,3 +12608,11 @@
 126,https://www.chugai-pharm.co.jp/profile/about/organization/images/pic_about_organization.gif,https://www.chugai-pharm.co.jp/profile/about/organization.html
 126,http://tohokai.com/organization/images/soshikizu.jpg,http://tohokai.com/m/organization/
 126,http://tohokai.com/organization/images/main_banner.jpg,http://tohokai.com/organization/
+127,https://www.nakayamafuku.co.jp/company/organization/img/img_organization_001.gif,https://www.nakayamafuku.co.jp/company/organization/
+127,http://www.mitsuboshi-kenzai.co.jp/images/corporate/organization_chart7.jpg,http://www.mitsuboshi-kenzai.co.jp/corporate/organization.php
+127,http://www.nakayama-syakyou.jp/img/about/organization.png,http://www.nakayama-syakyou.jp/about.html
+127,https://www.nakayama-steel.co.jp/image/about/organization_map.jpg,https://www.nakayama-steel.co.jp/menu/about/organization.html
+127,https://cdn-ak.f.st-hatena.com/images/fotolife/m/meiji-borderless-organization/20171207/20171207143238.jpg,http://meiji-borderless-organization.hatenablog.com/entry/2017/12/07/143331
+127,https://bukkyo-seminar.jp/wp-content/themes/buddhism/images/page/organization_h1.png,https://bukkyo-seminar.jp/organization/
+127,https://www.nakayama-steel.co.jp/image/about/organization_map130812.jpg,https://www.nakayama-steel.co.jp/menu/about/organization130812.html
+127,https://www.nakayama-steel.co.jp/image/about/organization_map130401.jpg,https://www.nakayama-steel.co.jp/menu/about/organization130401.html
