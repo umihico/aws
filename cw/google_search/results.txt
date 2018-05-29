@@ -7606,3 +7606,13 @@
 46,https://www.nta.go.jp/about/organization/tokyo/sake/sake/img/map_chiba.gif,https://www.nta.go.jp/about/organization/tokyo/sake/sake/chiba/chiba.htm
 46,http://www.ritsumei.ac.jp/internship/common/img/organization/coop/organization-coop-img02.jpg,http://www.ritsumei.ac.jp/internship/organization/coop.html/
 46,http://www.heiwa-re.co.jp/outline/images/organization_img04.png,http://www.heiwa-re.co.jp/outline/am.html
+47,https://144000.jp/prayer-of-peace/images/organization.png,https://144000.jp/prayer-of-peace/organization.html
+47,http://english.ryukyushimpo.jp/wp-content/uploads/2015/08/%E7%B1%B3%E5%9B%BD%E5%B9%B3%E5%92%8C%E5%9B%A3%E4%BD%932d979f242.jpg,http://english.ryukyushimpo.jp/2015/08/22/19574/
+47,https://www.spf.org/opri-j/profile/organization/img/pic_organization.gif,https://www.spf.org/opri-j/profile/organization/
+47,http://www.hanatourjapan.jp/ja/img/img_organization.jpg,http://www.hanatourjapan.jp/ja/sub_01_04.html
+47,https://res.cloudinary.com/teepublic/image/private/s--k3OSVRzR--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_285,q_90,w_285/v1446207887/production/designs/163296_0,https://www.teepublic.com/stickers/organization
+47,http://www.mod.go.jp/js/jsc/jpc/english/about/images/organization/pict_01.gif,http://www.mod.go.jp/js/jsc/jpc/english/about/organization.html
+47,http://www.heiwa-re.co.jp/outline/images/organization_img01.png,http://www.heiwa-re.co.jp/outline/org.html
+47,http://www.t-enecon.com/cms/wp-content/uploads/2016/09/organization01.jpg,http://www.t-enecon.com/outline/summary/organization/
+47,https://sapocen.net/assets/images/organization/238.jpg,https://sapocen.net/organization/org238/
+47,http://www.heiwapaper.co.jp/corporate/imgs/organization_article_img01.png,http://www.heiwapaper.co.jp/corporate/organization.html
