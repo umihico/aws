@@ -12123,3 +12123,7 @@
 108,http://www.jizake.or.jp/company/img/pc/pht_organization_01.jpg,http://www.jizake.or.jp/company/organization.html
 108,https://www.kaa.co.jp/wp/wp-content/uploads/2018/03/wakazono.jpg,https://www.kaa.co.jp/company/organization/
 108,http://motorcars.jp/wp-content/uploads/2017/12/u-s-research-organization-kpmg-suggesting-that-selling-of-cars-after-13-years-will-sharply-decrease-with-the-spread-of-automatic-driving-vehicles20171227-1-1024x576.jpg,http://motorcars.jp/u-s-research-organization-kpmg-suggesting-that-selling-of-cars-after-13-years-will-sharply-decrease-with-the-spread-of-automatic-driving-vehicles20171227
+109,https://www.tokyometro.jp/corporate/profile/organization/images/index_img_01.gif,https://www.tokyometro.jp/corporate/profile/organization/index.html
+109,https://www.ecomart.or.jp/image_eco/img_organization02.png,https://www.ecomart.or.jp/aboutus/organization.asp
+109,http://www.metro-service.co.jp/corporate/organization/images/organization_img_02.gif,http://www.metro-service.co.jp/corporate/organization/index.html
+109,http://www.tokyotekko.co.jp/ja/company/organization/main/0/teaserItems1/00/binaryNodeName/company-img05-1_2.png,http://www.tokyotekko.co.jp/ja/company/organization.html
