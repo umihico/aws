@@ -85,7 +85,7 @@ def gen_urls_func(i, filename="results.txt"):
                 break
             print(len_okay_soshikizu_bools,
                   len_soshikizu_bools, round(rate, ndigits=3))
-            print(f'all{len(results)}')
+            print(f'all{len(results)}/{element_int}')
     except (Exception, ) as e:
         print(format_exc())
     finally:
@@ -101,7 +101,9 @@ def gen_urls_func(i, filename="results.txt"):
 
 
 if __name__ == '__main__':
-    import sys
-    args = sys.argv
-    this_filename, i = args
-    gen_urls_func(int(i))
+    pass
+
+    # import sys
+    # args = sys.argv
+    # this_filename, i = args
+    # gen_urls_func(int(i))
