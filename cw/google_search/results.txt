@@ -12433,3 +12433,15 @@
 120,https://www.researchgate.net/profile/Adam_Ostrowski/publication/283211478/figure/fig1/AS:391720886915073@1470404945833/Domain-organization-of-human-OGT-A-and-OGA-B-enzymes-and-their-orthologues-from-T.jpg,https://www.researchgate.net/figure/Domain-organization-of-human-OGT-A-and-OGA-B-enzymes-and-their-orthologues-from-T_fig1_283211478
 120,http://microbialcell.com/wordpress/wp-content/uploads/2018/02/Figure-5-CLS-extension-by-snf1Delta-suppressor-mutations.jpg,http://microbialcell.com/researcharticles/spontaneous-mutations-in-cyc8-and-mig1-suppress-the-short-chronological-lifespan-of-budding-yeast-lacking-snf1-ampk/figure-5-cls-extension-by-snf1delta-suppressor-mutations/
 120,http://www.hirose-paper-mfg.co.jp/about_img/organization_jpn.png,http://www.hirose-paper-mfg.co.jp/about.html
+121,http://www.tottoribank.co.jp/torigin/info/organization/img/img_organization02.jpg,http://www.tottoribank.co.jp/torigin/info/organization/index.html
+121,https://www.torii.co.jp/release/2014/images/organization_20140801.gif,https://www.torii.co.jp/release/2014/140718_2.html
+121,https://www.torii.co.jp/company/img/organization_im01.png,https://www.torii.co.jp/company/organization.html
+121,http://www.nagano-shinkin.jp/about/outline/organization/img_v2/gaiyou_sosiki-img01.gif,http://www.nagano-shinkin.jp/about/outline/organization/
+121,https://www.tsudakoma.co.jp/company/csr/organization/img/flow.png,https://www.tsudakoma.co.jp/company/csr/organization/governance.html
+121,https://www.torii.co.jp/release/2004/images/organization.gif,https://www.torii.co.jp/release/2004/040428.html
+121,http://fukuoka-syokuiku.net/wp-content/themes/fskt/img/organization.png,http://fukuoka-syokuiku.net/aboutus
+121,http://www.kankyocreation.co.jp/images/organization.png,http://www.kankyocreation.co.jp/company.html
+121,https://www.sanin-tourism.com/wp-content/themes/sanin_jp_1/images/organization/bg_main_organization.jpg,https://www.sanin-tourism.com/organization
+121,http://www.torica-inc.co.jp/torica/wp-content/themes/torica/common/img/company/organization.gif,http://www.torica-inc.co.jp/company/
+121,https://www.douyou-contest.com/organization/images/organization-20180226.png,https://www.douyou-contest.com/organization/
+121,http://www.nextlinks.co.jp/company/images/2018organization-img.png,http://www.nextlinks.co.jp/company/about.html
