@@ -12189,3 +12189,15 @@
 113,http://www.aed-zaidan.jp/images/about/organization_SP.png,http://www.aed-zaidan.jp/about/
 113,http://www.jahi.jp/image/organization.jpg,http://www.jahi.jp/organization.html
 113,http://www.fujiei.co.jp/images/organization_sp.gif?1611,http://www.fujiei.co.jp/company/info/
+114,http://www.azumakaiun.co.jp/images/organization.gif,http://www.azumakaiun.co.jp/organization.html
+114,http://www.azumaship.co.jp/company/images/organization.png,http://www.azumaship.co.jp/company/organization.html
+114,http://ahpf.or.jp/wordpress/wp-content/uploads/2018/03/organization_v2.png,http://ahpf.or.jp/about/official
+114,http://www.toukai-u.co.jp/company/image/organization.gif,https://search.yahoo.co.jp/image/search?ei=UTF-8&fr=lmd_poi&p=%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%9D%B1%E6%B5%B7%E9%81%8B%E8%BC%B8%E3%80%80%E6%9E%9D%E5%B7%9D%E6%94%AF%E5%BA%97
+114,http://www.tdc-net.co.jp/csr/compliance/images/sosikizugif2.gif,http://www.tdc-net.co.jp/csr/compliance/organization.html
+114,https://www.srij.or.jp/newsite/newimages/organization1505.gif,https://www.srij.or.jp/newsite/about/organization/
+114,https://sugihara-net.biz/bzyaybdqwmda/wp-content/themes/sugihara_theme/images/company/organization_map.jpg,https://sugihara-net.biz/company/
+114,http://tandemjapan.co.jp/wp-content/uploads/2017/08/organization_en1.jpg,http://tandemjapan.co.jp/?page_id=30&lang=en
+114,http://www.ksa.co.jp/network/images/tandem_organizationChart.gif,http://www.ksa.co.jp/network/tandem-japan.html
+114,http://takeshiba-machikyo.jp/wp-content/themes/takeshiba/assets/img/about_organizational_chart.png,http://takeshiba-machikyo.jp/about
+114,https://www.osc.hokudai.ac.jp/wp/wp-content/uploads/2018/04/0751be56589f52382040448f49fde626.png,https://www.osc.hokudai.ac.jp/what-sc/organization
+114,http://nihonbijutsuin.or.jp/organization/2017images/back.jpg,http://nihonbijutsuin.or.jp/organization/link.html
