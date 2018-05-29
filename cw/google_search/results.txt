@@ -8061,3 +8061,7 @@
 60,http://www.nihon-generic.co.jp/company/images/organization_jp.gif,http://www.nihon-generic.co.jp/company/company.html
 60,http://www.hitachi-hgne.co.jp/image/contents/organizatuional_001.gif,http://www.hitachi-hgne.co.jp/about/organizational/index.html
 60,https://www.mhps.com/jp/randd/organization/img/index_im07.jpg,https://www.mhps.com/jp/randd/organization/
+61,http://www.hitachi-life.co.jp/company/image/organization201804.jpg,http://www.hitachi-life.co.jp/company/profile.html
+61,http://www.knak.jp/ta-sangyou/pharma/takeda-Harrington.jpg,http://www.knak.jp/ta-sangyou/pharma/takeda.htm
+61,http://www.eco-lead.jp/info/wp-content/uploads/2011/02/organization_small111.jpg,http://www.eco-lead.jp/info/tag/science-and-engineering/
+61,https://www.jeiu.or.jp/images/sub/sec/organization.jpg,https://www.jeiu.or.jp/what/organization/cat4/
