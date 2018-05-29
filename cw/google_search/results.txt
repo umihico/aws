@@ -7061,3 +7061,6 @@
 37,http://godsamhill.com/wp-content/uploads/2018/01/ph2018012501.jpg,http://godsamhill.com/tag/chubu/
 37,http://godsamhill.com/wp-content/uploads/2017/09/ph2017091001.jpg,http://godsamhill.com/author/godsamhill-site-administrator/page/2/
 37,http://godsamhill.com/wp-content/uploads/2018/03/ph2018032101.jpg,http://godsamhill.com/date/2018/03/
+38,https://www.myam.co.jp/about/organization/img/index_ph01.png,https://www.myam.co.jp/about/organization/
+38,http://www.jpr-reit.co.jp/trim/uploads/profile_chart.png,http://www.jpr-reit.co.jp/trim/organization.html
+38,https://kankou-japan.jp/assets/site/about/img-organization-745504157c2760eb9ebfbdbd0a6174e28ab7afd2b933ae277eb2531939eb8530.png,https://kankou-japan.jp/about/
