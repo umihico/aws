@@ -11388,3 +11388,4 @@
 88,http://www.nssb.nssmc.com/corporate/images/chart2.png,http://www.nssb.nssmc.com/corporate/organization.html
 88,http://www.fuji-tekkou.co.jp/assets/images/company/index/image_organization.png,http://www.fuji-tekkou.co.jp/company/
 88,http://www.tex-sol.com/files/jp/company/outline/images/img_organization.gif,http://www.tex-sol.com/company/outline/
+89,http://www.yutakat.com/images/organization%20chart.jpg,http://www.yutakat.com/profile.html
