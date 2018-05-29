@@ -11345,3 +11345,7 @@
 80,https://www.nbsnet.co.jp/img/company/about/organizational.png,https://www.nbsnet.co.jp/company/about/
 80,https://www.greenhouser.co.jp/about/img/organization/img01.png,https://www.greenhouser.co.jp/about/organization.html
 80,http://www.ksky.co.jp/wordpress/wp-content/themes/ksky/company/images/organization.gif,http://www.ksky.co.jp/company/
+83,http://www.jlabs.or.jp/tst/wp-content/uploads/2012/03/01_kikanzu_20170711.png,http://www.jlabs.or.jp/corp-organization
+83,http://www.e-station.org/img/organization.png,http://www.e-station.org/company.html
+83,http://www.iforce.ne.jp/NEWS/assets_c/2013/02/iforce-organization2013-thumb-940x500-149.gif,http://www.iforce.ne.jp/profile.html
+83,https://www.upteks.com/Templates/pic/organization-chart-tw.jpg,https://www.upteks.com/ja/page/organization.html
