@@ -11591,3 +11591,13 @@
 101,http://www.mito.co.jp/img/corporate/company/organization_thumb01.gif,http://www.mito.co.jp/corporate/company/organization.html
 101,http://www.s-tekkin.co.jp/shared/imgs/img_02_organizational_tree.gif,http://www.s-tekkin.co.jp/company/outline.html
 101,https://www.univlife.co.jp/company/img/graph_organization.png,https://www.univlife.co.jp/company/profile.html
+102,http://www.t-kagaku.co.jp/contents/wp-content/uploads/2018/05/b73a4ac9a6224b17cb46f8d9db60f031.jpg,http://www.t-kagaku.co.jp/profile/organization-chart/
+102,https://www.tohoku-epco.co.jp/sprogram/images/organization_pc.png,https://www.tohoku-epco.co.jp/sprogram/
+102,http://www.tohoku-bank.co.jp/profdisk/organization/images/soshiki_img20180401.gif,http://www.tohoku-bank.co.jp/profdisk/organization/
+102,http://www.tkca.co.jp/company/images/organization.gif,http://www.tkca.co.jp/company/
+102,http://www.sendai-doyukai.org/about/images/organization.png,http://www.sendai-doyukai.org/about/organization.html
+102,http://www.vegalta.co.jp/wpsys/wp-content/uploads/2018/04/organization-chart-2018.gif,http://www.vegalta.co.jp/profile/company.html
+102,http://www.waterless.jp/about/activity/archives/Oku-press%20organization%20chart.JPG,http://www.waterless.jp/about/activity/archives/2007_07.php
+102,https://www.to-be.co.jp/company/images/organization1804.png,https://www.to-be.co.jp/company/organization.html
+102,http://www.jbog.jp/examination/img/organization_pic01.gif,http://www.jbog.jp/examination/organization.html
+102,http://www.vsat.jp/_/rsrc/1330318321500/organization/organization.png?height=371&width=475,http://www.vsat.jp/organization
