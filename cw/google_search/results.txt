@@ -8583,3 +8583,15 @@
 66,https://c1.sfdcstatic.com/content/dam/blogs/jp/Blog-posts/sales_7s-for-change-organization_img_02.jpg,https://www.salesforce.com/jp/blog/2015/11/7s-for-change-organization.html
 66,http://www.3dweb.co.jp/index_images/organization.svg,http://www.3dweb.co.jp/
 66,http://motorcars.jp/wp-content/uploads/2016/09/mazda-presented-the-welfare-vehicle-to-social-welfare-organizations-in-the-zoom-zoom-stadium-hiroshima-of-visitors-13-million-people-achieve20160902-1-672x372.jpg,http://motorcars.jp/mazda-mazda-zoom-zoom-stadium-hiroshima-cumulative-visitors-awarded-vehicles-to-social-welfare-organizations-with-14-million-people20170511
+67,http://www.nipponexpress.com/sz/ja/about/images/organization_ph01.jpg,http://www.nipponexpress.com/sz/ja/about/organization/
+67,http://www.nichidai-ce-koyukai.com/wp/wp-content/uploads/2017/07/img_organization-map_201707.jpg,http://www.nichidai-ce-koyukai.com/about/organization-chart.html
+67,http://nichidai.wkf.jp/uploads/organization.jpg,http://nichidai.wkf.jp/modules/pico2/index.php?content_id=2
+67,http://www.rist.cst.nihon-u.ac.jp/image/organization_chart0.jpg,http://www.rist.cst.nihon-u.ac.jp/organization.html
+67,http://kfaj.jp/association/images/organization_img_01.gif,http://kfaj.jp/association/organization.html
+67,http://www.j-tes.co.jp/company/images/chart_organization20170401.gif,http://www.j-tes.co.jp/company/chart.html
+67,https://www.whitecross.co.jp/img/default/organization.png,https://www.whitecross.co.jp/organizations/view/253
+67,https://static.wixstatic.com/media/492697_d3c537baa7fd437683e29f14244d6687~mv2_d_3568_3544_s_4_2.jpg/v1/fill/w_369,h_366,al_c,q_80,usm_0.66_1.00_0.01/492697_d3c537baa7fd437683e29f14244d6687~mv2_d_3568_3544_s_4_2.webp,https://fragranttrees945.wixsite.com/index/members-1
+67,https://www.nittora.co.jp/corporate/management/images/organization_il01_s.png,https://www.nittora.co.jp/corporate/management/organization.html
+67,http://www.ee.cit.nihon-u.ac.jp/gakka-annai/soshiki/img/organization.gif,http://www.ee.cit.nihon-u.ac.jp/gakka-annai/soshiki/
+67,https://image.jimcdn.com/app/cms/image/transf/dimension=435x1024:format=jpg/path/sacadd202f8e87a52/image/i4a44e36a4fa26546/version/1486971976/image.jpg,https://www.passionsports-training.jp/2017/02/13/japan-athletic-trainers-organization-jato/
+67,http://www.nittsufudosan.co.jp/corp/images/index_ph01.jpg,http://www.nittsufudosan.co.jp/corp/organization.html
