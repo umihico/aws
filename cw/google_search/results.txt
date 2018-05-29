@@ -11403,3 +11403,10 @@
 90,https://www.jsol.co.jp/solution/img/img_sol_itorganization_consul01.jpg,https://www.jsol.co.jp/solution/itorganization_consul.html
 90,http://9989.jp/bay9989/images/organization.gif,http://bay9989.com/free/company
 90,http://www.nissui.co.jp/corporate/organization/img/figure_01.gif,http://www.nissui.co.jp/corporate/organization/index.html
+91,http://www.nisshinfire-is.co.jp/assets/images/img_organizationchart201704.gif,http://www.nisshinfire-is.co.jp/about/organization.html
+91,https://s3-ap-northeast-1.amazonaws.com/qiita-organization-image/585807a2362625f067c7f0d85564bedda1f2f4cd/original.jpg?1481271307,https://qiita.com/organizations/nissho-ele
+91,http://nissin.jp/company/images/organization/organization.jpg,http://nissin.jp/company/organization.html
+91,http://www.ac.nisshin-steel.co.jp/corporate/images/organization-201704.png,http://www.ac.nisshin-steel.co.jp/corporate/index.htm
+91,http://nissin.jp/csr/governance/images/organization/organization.jpg,http://nissin.jp/csr/governance/organization.html
+91,http://nissin.jp/company/images/index/img_organization.jpg,http://nissin.jp/company/index.html
+91,http://www.tokiomarinehd.com/company/information/images/organization-02.gif,http://www.tokiomarinehd.com/company/information/organization.html
