@@ -11291,3 +11291,7 @@
 76,http://ngen_corp.n01.jp/images/about/organization_chart.jpg,http://ngen_corp.n01.jp/about/index.html
 76,http://fields.canpan.info/shared/img/profile_organization4ogp.png,http://fields.canpan.info/organization/detail/1531180089
 76,http://www.kcg.ac.jp/images/career/career_organization/kouyuukai_3_2017.jpg,http://www.kcg.ac.jp/career/employment/alumni.html
+77,http://www.suiryo.co.jp/sr-cms/wp-content/themes/suiryo/images/img-organization.jpg,http://www.suiryo.co.jp/company/
+77,http://keiei-manabu.com/img/organizational-form2.jpg,http://keiei-manabu.com/strategy/organizational-form.html
+77,http://k-m-c.biz/leadconcept.jpg,http://k-m-c.biz/blog1.html
+77,http://www.neg.co.jp/uploads/rd_organization.jpg,http://www.neg.co.jp/ir/situation/
