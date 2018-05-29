@@ -88,7 +88,7 @@ def gen_urls_func(i, filename="results.txt"):
             if len(soshikizu_bools) > 100:
                 soshikizu_bools.pop(0)
             rate = len_okay_soshikizu_bools / element_int
-            if len(element_int) > 100 and rate < 0.1:
+            if element_int > 100 and rate < 0.1:
                 break
             print(len_okay_soshikizu_bools,
                   len_soshikizu_bools, round(rate, ndigits=3))
