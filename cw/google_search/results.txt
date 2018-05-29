@@ -11638,3 +11638,9 @@
 103,http://www.cm-net.co.jp/assets/imgs/about/01_07_soshiki.png,http://www.cm-net.co.jp/about/
 103,http://ishikawa-sougyo.jp/wp-content/uploads/2016/03/ec90c17f826624649b8780a967da5866_m-e1458565207395.jpg,http://ishikawa-sougyo.jp/support-organizations
 103,http://www.knak.jp/blog/dow-organization.gif,http://www.knak.jp/blog/2009-1-2.htm
+104,http://www.nittotsushinki.co.jp/image/organization_chart20180508.gif,http://www.nittotsushinki.co.jp/co_profile.html
+104,http://www.jreast.co.jp/organization/img/organization.gif,http://www.jreast.co.jp/organization/
+104,http://soudasaitama.com/wp-content/uploads/2017/04/img_train.jpg,http://soudasaitama.com/company-organization/20977.html
+104,http://www.toho.co.jp/company/assets/images/info/profile/img_organizationchart.png,http://www.toho.co.jp/company/info/profile.html
+104,http://www.jreast-hpc.jp/image/organization.jpg,http://www.jreast-hpc.jp/history.html
+104,https://www.noe.jxtg-group.co.jp/company/about/images/organization_im01.jpg,https://www.noe.jxtg-group.co.jp/company/about/organization.html
