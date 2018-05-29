@@ -7546,3 +7546,4 @@
 43,https://www.mizuma-com.jp/item/img/img_company_organization4.jpg,https://www.mizuma-com.jp/company.html
 43,http://www.fujiboeki.jp/re_newal2015/images/company_organization_chart.jpg,http://www.fujiboeki.jp/re_newal2015/corporate_information.html
 43,http://www.northern-bullets.com/wp-content/themes/theme929_NB/images/anb4.jpg,http://www.northern-bullets.com/organization
+44,http://www.kat-kk.co.jp/overview/images/organization_chart.jpg,http://www.kat-kk.co.jp/overview/
