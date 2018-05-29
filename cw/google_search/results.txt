@@ -11389,3 +11389,17 @@
 88,http://www.fuji-tekkou.co.jp/assets/images/company/index/image_organization.png,http://www.fuji-tekkou.co.jp/company/
 88,http://www.tex-sol.com/files/jp/company/outline/images/img_organization.gif,http://www.tex-sol.com/company/outline/
 89,http://www.yutakat.com/images/organization%20chart.jpg,http://www.yutakat.com/profile.html
+90,https://www.nissin.com/jp/about/nissinfoods-holdings/images/organization.png?20180401,https://www.nissin.com/jp/about/nissinfoods-holdings/outline/
+90,https://www.mn-feed.com/company/img/pic_company-organization_01.png,https://www.mn-feed.com/company/organization/
+90,https://www.wakoushokuhin.co.jp/wp01/wp-content/uploads/2017/12/organization.png,https://search.yahoo.co.jp/image/search?ei=UTF-8&fr=lmd_poi&p=%E6%97%A5%E6%B8%85%E3%82%AA%E3%82%A4%E3%83%AA%E3%82%AA%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%E6%96%B0%E6%BD%9F%E5%96%B6%E6%A5%AD%E6%89%80
+90,https://www.nifs.co.jp/wp-content/uploads/nifs14-5.jpg,https://www.nifs.co.jp/management/organizational/
+90,http://www.nisseibuild.co.jp/company/images/fig_const.gif,http://www.nisseibuild.co.jp/company/organization.html
+90,http://www.sustainablebrands.jp/news/tr/detail/__icsFiles/afieldfile/2018/05/17/sekisui-chemical_csr-graphic.jpg,http://www.sustainablebrands.jp/news/tr/detail/1190449_2430.html
+90,https://www.nisshin-shoji.co.jp/images/about/img01.png,https://www.nisshin-shoji.co.jp/organization.html
+90,http://nasser.c.blog.so-net.ne.jp/_images/blog/_f94/nasser/group-assignment-pn-g-organization-2005-14-638.jpg,http://nasser.blog.so-net.ne.jp/archive/c2305179062-1
+90,http://www.naro.affrc.go.jp/project/f_foodpro/files/ffoodpro_organization.png,http://www.naro.affrc.go.jp/project/f_foodpro/organization.html
+90,http://www.j-margarine.com/about/img/organization.gif,http://www.j-margarine.com/about/member.html
+90,https://www.nifs.co.jp/wp-content/uploads/yakuwari.jpg,https://www.nifs.co.jp/management/organizational/role-about/
+90,https://www.jsol.co.jp/solution/img/img_sol_itorganization_consul01.jpg,https://www.jsol.co.jp/solution/itorganization_consul.html
+90,http://9989.jp/bay9989/images/organization.gif,http://bay9989.com/free/company
+90,http://www.nissui.co.jp/corporate/organization/img/figure_01.gif,http://www.nissui.co.jp/corporate/organization/index.html
