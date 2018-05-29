@@ -7677,3 +7677,10 @@
 49,https://www.fse.or.jp/english/trading/images/clearing/clearing_img1.png,https://www.fse.or.jp/english/trading/clearing.php
 49,http://newshawktime.com/wp-content/uploads/2017/08/Smart-Card-1.jpg,http://newshawktime.com/smart-card-market-report-aims-to-outline-and-forecast-organization-sizes-top-vendors-and-end-user-analysis-by-2021/
 49,http://www.kcg.ac.jp/images/career/career_organization/kouyuukai_3_2017.jpg,http://www.kcg.ac.jp/career/employment/alumni.html
+50,http://www.fujilogitech-next.co.jp/img/company_organization_img.jpg,http://www.fujilogitech-next.co.jp/company/organization.php
+50,https://www.fkoil.co.jp/img/img_organization.gif,https://www.fkoil.co.jp/company/organization.html
+50,https://www.fujielectric.co.jp/fft/resource/images/page_images/about/organization_img_01.png,https://www.fujielectric.co.jp/fft/about/organization/index.html
+50,http://www.ftr.co.jp/n/company/image/organization_02.jpg,http://www.ftr.co.jp/n/company/organization.html
+50,http://fujiyoshida-yeg.jp/img/organize/fig_organization.gif,http://fujiyoshida-yeg.jp/organize.html
+50,http://www.fstec.co.jp/images/corporate/organization.gif,http://www.fstec.co.jp/organization.html
+50,https://www.fujielectric.co.jp/about/corporate/organization/box/201604/img/linkmap_00.gif,https://www.fujielectric.co.jp/about/corporate/organization/network.html
