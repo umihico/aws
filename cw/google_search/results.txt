@@ -7891,3 +7891,14 @@
 55,https://www.waseda.jp/culture/archives/assets/uploads/2015/03/150_committee_eye-940x705.jpg,https://www.waseda.jp/culture/archives/150th/organization/
 55,https://image.shutterstock.com/image-photo/afghanistan-name-sign-among-different-260nw-706125625.jpg,https://www.shutterstock.com/ja/image-illustration/vertical-stack-multicolor-office-binders-import-669374617
 55,http://www.lifeline-group.jp/img/company/img_organization.jpg,http://www.lifeline-group.jp/company.html
+56,http://www.ryoyo.co.jp/library/image/jp/corporate/201803_organization.png,http://www.ryoyo.co.jp/corporate/organization.html
+56,http://osuzu.ja-miyazaki.jp/upimg/20150320172857_1.jpg,http://osuzu.ja-miyazaki.jp/organization.php
+56,http://onozo.co.jp/ja/wp-content/themes/onozo-corporate-2014/img/company/pic_organization01.png,http://onozo.co.jp/ja/organization
+56,http://www.resco.co.jp/corporate/images/organization_img.gif,http://www.resco.co.jp/corporate/organization.html
+56,http://www.ryoden.co.jp/img/corporate/organization/img01.png,http://www.ryoden.co.jp/corporate/organization/
+56,https://s-media-cache-ak0.pinimg.com/originals/f7/60/4e/f7604e3e823cbe752212dc5e06c423b2.jpg,https://www.pinterest.jp/pin/182255116139710755/
+56,http://nobikiden.co.jp/corporate/img/organization_chart.jpg,http://nobikiden.co.jp/corporate/gaiyou.html
+56,http://www.ncgg.go.jp/hospital/overview/organization/zaitaku/aichiken/a_kyoten/h260417/images/bihoku2.jpg,http://www.ncgg.go.jp/hospital/overview/organization/zaitaku/aichiken/a_kyoten/h260417/tab8b_bihoku.html
+56,https://www.mitsubishichem-sys.co.jp/img/corporate/organization.png,https://www.mitsubishichem-sys.co.jp/corporate/organization.html
+56,http://www.ncgg.go.jp/hospital/overview/organization/zaitaku/aichiken/a_kyoten/h261031/images/bihoku0.jpg,http://www.ncgg.go.jp/hospital/overview/organization/zaitaku/aichiken/a_kyoten/h261031/tab8c_bihoku.html
+56,https://usami-net.com/assets/img/content/company/organization/organization_pc.png,https://usami-net.com/content/company/organization/
