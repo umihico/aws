@@ -7684,3 +7684,6 @@
 50,http://fujiyoshida-yeg.jp/img/organize/fig_organization.gif,http://fujiyoshida-yeg.jp/organize.html
 50,http://www.fstec.co.jp/images/corporate/organization.gif,http://www.fstec.co.jp/organization.html
 50,https://www.fujielectric.co.jp/about/corporate/organization/box/201604/img/linkmap_00.gif,https://www.fujielectric.co.jp/about/corporate/organization/network.html
+51,https://www.fujielectric.com/products/photoconductor_drum/box/img/img_06.gif,https://www.fujielectric.com/products/photoconductor_drum/organization.html
+51,http://blanclabs.com/wp-content/uploads/2018/02/eqb-myEquitable-700x450.jpg,http://blanclabs.com/
+51,https://i1.wp.com/thesquealer.net/wp-content/uploads/2018/05/General.jpeg?resize=257%2C365&ssl=1,https://www.thesquealer.net/
