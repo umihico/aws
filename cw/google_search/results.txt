@@ -7916,3 +7916,15 @@
 57,http://benrioffice.com/visa/TYPEorganizationcom1.jpg,http://benrioffice.com/visa/gaikoku29.html
 57,https://helpx.adobe.com/content/dam/help/ja/lightroom-cc/using/organize-photos/_jcr_content/main-pars/image_1572704503/v3_ni_organization.jpg,https://helpx.adobe.com/jp/lightroom-cc/using/organize-photos.html
 57,http://corporate-tech-blog-wp.s3-website-ap-northeast-1.amazonaws.com/tech/wp-content/uploads/2017/02/org03.png,http://blog.serverworks.co.jp/tech/2017/02/28/organizations/
+58,http://www.shiraishi.co.jp/calcium/about/organization/images/organization.gif,http://www.shiraishi.co.jp/calcium/about/organization/
+58,https://www.hakuhodody-holdings.co.jp/assets/img/group/outline/organization_fig_tree_sp.png,https://www.hakuhodody-holdings.co.jp/group/outline/organization.html
+58,http://jobiyaku.com/wp-content/uploads/2017/03/organization_chart.png,http://jobiyaku.com/about-us/
+58,https://www.nta.go.jp/about/organization/sapporo/location/saphigashi/photo.jpg,https://www.nta.go.jp/about/organization/sapporo/location/saphigashi/index.htm
+58,http://www.mod.go.jp/gsdf/nae/11d/organization/images/tokka/tainokatudoujyoukyou/26/0823taituusinkyougikai/img/tyuutaitaikounobu/honbukanrityuutai.jpg,http://www.mod.go.jp/gsdf/nae/11d/organization/images/tokka/tainokatudoujyoukyou/26/0823taituusinkyougikai/0823taituusinkyougikai.html
+58,http://nagoya-ad.jp/images/outline/organization.png,http://nagoya-ad.jp/
+58,https://taiyou-kk.co.jp/wordpress/wp-content/uploads/2017/11/organization-chart.gif,https://taiyou-kk.co.jp/company/organization/
+58,https://www.ism.co.jp/company/img/img_organization.png,https://www.ism.co.jp/company/
+58,http://www.hakuhodo-consulting.co.jp/content/themes/original/images/service/marketing-organization_img1.png,http://www.hakuhodo-consulting.co.jp/service/cmo/marketing-organization/
+58,http://www.matsuokaman.jp/assets/img/organization_chart.jpg,http://www.matsuokaman.jp/organization/
+58,http://www.hakuhodody-media.co.jp/wordpress/wp-content/uploads/2017/03/odm_shingaisha_top-1.jpg,http://www.hakuhodody-media.co.jp/newsrelease/organization/20170307_17218.html
+58,http://www.bandai.co.jp/corporate/images/organization_il01.jpg,http://www.bandai.co.jp/corporate/organization.html
