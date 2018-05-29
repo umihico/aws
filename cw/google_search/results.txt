@@ -8569,3 +8569,17 @@
 65,http://ih.constantcontact.com/fs048/1100364997435/img/170.jpg?a=1101959395345,http://archive.constantcontact.com/fs048/1100364997435/archive/1101959395345.html
 65,http://www.kyotokeikyo.or.jp/about/image/img-organization.png,http://www.kyotokeikyo.or.jp/about/organization.shtml
 65,http://www.nihonkensetsu.co.jp/imgs/company/organization/organization_pc.gif,http://www.nihonkensetsu.co.jp/company/organization/
+66,http://www.n-denkei.co.jp/wp-content/uploads/img_organization0121.png,http://www.n-denkei.co.jp/company/organization/
+66,http://nihondensho.com/wp-content/uploads/2015/08/organization.png,http://nihondensho.com/%E4%BC%81%E6%A5%AD%E6%83%85%E5%A0%B1/%E7%B5%84%E7%B9%94%E5%9B%B3/
+66,https://www.nidec.com/ja-JP/sustainability/governance/internal-control/~/media/nidec-com/sustainability/governance/governance2017/internal-control/img/img_organization.gif,https://www.nidec.com/ja-JP/sustainability/governance/internal-control/
+66,https://www.nidec-copal-electronics.com/file/img/soshikizu.gif,https://www.nidec-copal-electronics.com/j/company/organization/
+66,https://www.jeiu.or.jp/images/sub/sec/organization.jpg,https://www.jeiu.or.jp/what/organization/cat4/
+66,http://www.kyotokeikyo.or.jp/about/image/img-organization.png,http://www.kyotokeikyo.or.jp/about/organization.shtml
+66,http://www.kanda-k.co.jp/img/company/organization_chart.png,http://www.kanda-k.co.jp/company.html
+66,https://www.uras-techno.co.jp/img/corporate/organization.png,https://www.uras-techno.co.jp/corporate/
+66,http://www.kyoso.co.jp/wp-content/themes/kyoso/img/company/organization_chart.png,http://www.kyoso.co.jp/company2/
+66,http://www.nds-co.com/profile/image/img_organization_1008.jpg,http://www.nds-co.com/profile/index.html
+66,http://www.700afp.jp/wp/wp-content/uploads/2017/04/organization_r2.png,http://www.700afp.jp/outline
+66,https://c1.sfdcstatic.com/content/dam/blogs/jp/Blog-posts/sales_7s-for-change-organization_img_02.jpg,https://www.salesforce.com/jp/blog/2015/11/7s-for-change-organization.html
+66,http://www.3dweb.co.jp/index_images/organization.svg,http://www.3dweb.co.jp/
+66,http://motorcars.jp/wp-content/uploads/2016/09/mazda-presented-the-welfare-vehicle-to-social-welfare-organizations-in-the-zoom-zoom-stadium-hiroshima-of-visitors-13-million-people-achieve20160902-1-672x372.jpg,http://motorcars.jp/mazda-mazda-zoom-zoom-stadium-hiroshima-cumulative-visitors-awarded-vehicles-to-social-welfare-organizations-with-14-million-people20170511
