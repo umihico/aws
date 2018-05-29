@@ -12750,3 +12750,6 @@
 130,http://www.nakajo-jc.com/wp/2015/wp-content/uploads/sites/3/2014/12/organization-chart.gif,http://www.nakajo-jc.com/wp/2015/organization/
 130,http://www.kankyohozen.jp/img/66-01.png,http://www.kankyohozen.jp/society/organization
 130,https://www.nikkakyo.org/organizations/jrcc/news/no59/images/d03.jpg,https://www.nikkakyo.org/organizations/jrcc/news/no59/d.html
+131,http://www.daiwa-grp.jp/japanese/images/about/organization_j.gif,http://www.daiwa-grp.jp/about/
+131,http://www.daiwa-grp.jp/japanese/images/corporate/organization.gif,http://www.daiwa-grp.jp/corporate/corporate_01.html
+131,http://www.psnet.co.jp/psnet.co.jp/wp-content/themes/psnet.co.jp/images/company/organization.png,http://www.psnet.co.jp/psnet.co.jp/company/
