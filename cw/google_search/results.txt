@@ -12478,3 +12478,13 @@
 122,https://s-media-cache-ak0.pinimg.com/236x/65/e6/67/65e66729246c6b2fd788fecb6c01ea57--diy-bathroom-organization-ideas.jpg,https://www.pinterest.com/pin/589127194976539038/
 122,http://chanko.umaihirado.jp/img/organization01.png,http://chanko.umaihirado.jp/organization.html
 122,http://www.fukuokakyushu-kubota.co.jp/outline/imgs/organization.gif,http://www.fukuokakyushu-kubota.co.jp/outline/
+123,http://www.chori.co.jp/common/images/company/organization_img.gif,http://www.chori.co.jp/company/organization.html
+123,http://www.asahi-kg.co.jp/cms/asahi/img/corporate/organization_pc001a.png,http://www.asahi-kg.co.jp/corporate/organization
+123,https://www.douyou-contest.com/organization/images/organization-20180226.png,https://www.douyou-contest.com/organization/
+123,https://www.asahi-sougou.co.jp/company/img/organization03.gif,https://www.asahi-sougou.co.jp/company/organization.htm
+123,http://www.asahi-pt.co.jp/annai/images/organizationchart.jpg,http://www.asahi-pt.co.jp/annai/soshiki.html
+123,https://publications.asahi.com/company/info/img/organization.jpg,https://publications.asahi.com/company/info/organization.html
+123,http://asahi-iandr.jp/wp-content/uploads/2018/04/asahi-iandr_organizationChart_pc.png,http://asahi-iandr.jp/company/
+123,http://asaori-iba.co.jp/wordpress/wp-content/uploads/2018/01/6bb5abbc21e6a6446ab34d40ea146856.png,http://asaori-iba.co.jp/company/organization
+123,http://www.asahi-elc.co.jp/img/organization_chart02.png,http://www.asahi-elc.co.jp/organization_chart.html
+123,http://www.yamagata-asahi.co.jp/images/sidebar/iso_info.gif,http://www.yamagata-asahi.co.jp/pages/organization.html
