@@ -60,11 +60,16 @@ def gen_urls_func(i, filename="results.txt"):
                 image_url = str(image_url[0]) if len(
                     image_url) > 0 else ""
                 hp_url = str(hp_url[0]) if len(hp_url) > 0 else ""
-                if image_url in done_image_urls or hp_url in done_hp_urls:
+                if image_url in done_image_urls:
+                    print("deplicate", image_url)
                     continue
-                else:
+                if hp_url in done_hp_urls:
+                    print("deplicate", hp_url)
+                    continue
+                if len(image_url) > 10:
                     done_image_urls.add(image_url)
-                    done_hp_urls.add(hp_url)
+                if len(hp_url) > 10:
+                    done_image_urls.add(hp_url)
                 all_text = ''.join([image_url, hp_url, description])
                 if 'organization' in all_text:
                     soshikizu_bools.append(True)
@@ -86,7 +91,7 @@ def gen_urls_func(i, filename="results.txt"):
                 break
             print(len_okay_soshikizu_bools,
                   len_soshikizu_bools, round(rate, ndigits=3))
-            print(f'all{len(results)}/{element_int}')
+            print(f'all no.{i} {len(results)}/{element_int}')
     except (Exception, ) as e:
         print(format_exc())
     finally:
