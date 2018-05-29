@@ -2,6 +2,7 @@ from chrome_wrapper import Chrome, Keys
 import csv_wrapper
 import sys
 from traceback import format_exc
+from time import sleep
 
 
 def gen_urls_func(i, filename="results.txt"):
