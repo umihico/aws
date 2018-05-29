@@ -12605,3 +12605,6 @@
 125,http://motorcars.jp/wp-content/uploads/2016/03/carmate-letter-of-appreciation-as-merit-organization-of-traffic-accident-deterrence-from-the-oita-prefectural-police-headquarters20160307-3.jpg,http://motorcars.jp/carmate-letter-of-appreciation-as-merit-organization-of-traffic-accident-deterrence-from-the-oita-prefectural-police-headquarters20160307
 125,http://j-net21.smrj.go.jp/assets/images/mainvisual/improvement_organization.jpg,http://j-net21.smrj.go.jp/tokushu/2018021300.html
 125,http://motorcars.jp/wp-content/uploads/2016/11/5f38c49b4a2c9040cf1f438ea6a4ccb4.jpg,http://motorcars.jp/ul-of-u-s-%C2%B7-third-party-safety-science-organization-emc-related-laboratory-for-automotive-use-in-aichi-prefecture-started-operation-from-june-2017-20161127
+126,https://www.chugai-pharm.co.jp/profile/about/organization/images/pic_about_organization.gif,https://www.chugai-pharm.co.jp/profile/about/organization.html
+126,http://tohokai.com/organization/images/soshikizu.jpg,http://tohokai.com/m/organization/
+126,http://tohokai.com/organization/images/main_banner.jpg,http://tohokai.com/organization/
