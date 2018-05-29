@@ -8100,3 +8100,11 @@
 62,http://info.hiroshima-cu.ac.jp/wp_2018/wp-content/uploads/2018/04/Graph03.jpg,http://info.hiroshima-cu.ac.jp/about/organization/systems-engineering.html
 62,http://www.nas-akita.co.jp/manage/wp-content/uploads/2018/02/chart.png,http://www.nas-akita.co.jp/company/organization/
 62,http://towersystems.co.jp/img/pic_organization_s.gif,http://towersystems.co.jp/
+63,http://www.hitachi-hgne.co.jp/image/contents/organizatuional_001.gif,http://www.hitachi-hgne.co.jp/about/organizational/index.html
+63,http://www.hitachi-hansya.jp/kanto-hitachi/image/corporate/organization.jpg,http://www.hitachi-hansya.jp/kanto-hitachi/corporate/organization/index.html
+63,http://www.sankyokk.jp/images/corporate/corporate_organizationchart_img.png,http://www.sankyokk.jp/corporate/outline/
+63,http://www.jbog.jp/examination/img/organization_pic01.gif,http://www.jbog.jp/examination/organization.html
+63,http://hirosedenko.co.jp/wp/wp-content/themes/hirose_wp/img/new_organization.png,http://hirosedenko.co.jp/company/organization/
+63,http://www.sanshin-kg.co.jp/images/company/organization.jpg,http://www.sanshin-kg.co.jp/company.html
+63,http://irid.or.jp/common/img/flow4.gif,http://irid.or.jp/organization/
+63,https://www.bayview.co.jp/about/img/company/organization_20180401.png,https://www.bayview.co.jp/about/company/
