@@ -11349,3 +11349,4 @@
 83,http://www.e-station.org/img/organization.png,http://www.e-station.org/company.html
 83,http://www.iforce.ne.jp/NEWS/assets_c/2013/02/iforce-organization2013-thumb-940x500-149.gif,http://www.iforce.ne.jp/profile.html
 83,https://www.upteks.com/Templates/pic/organization-chart-tw.jpg,https://www.upteks.com/ja/page/organization.html
+86,http://www.hyper-k.org/organization/img/worldmap.jpg,http://www.hyper-k.org/organization/overview.html
