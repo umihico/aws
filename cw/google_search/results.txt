@@ -7616,3 +7616,8 @@
 47,http://www.t-enecon.com/cms/wp-content/uploads/2016/09/organization01.jpg,http://www.t-enecon.com/outline/summary/organization/
 47,https://sapocen.net/assets/images/organization/238.jpg,https://sapocen.net/organization/org238/
 47,http://www.heiwapaper.co.jp/corporate/imgs/organization_article_img01.png,http://www.heiwapaper.co.jp/corporate/organization.html
+48,http://www.fuku.co.jp/company_profile/images/img_organization_66.png,http://www.fuku.co.jp/company_profile/organization.html
+48,http://www.jihee.or.jp/outline/img/organization/organization.gif,http://www.jihee.or.jp/outline/organization.html
+48,http://www.f-rn.co.jp/company/img/organization.png,http://www.f-rn.co.jp/company/index.html
+48,http://www.kk-recs.co.jp/profile/img/organization2018.png,http://www.kk-recs.co.jp/profile/
+48,http://www.karaya.co.jp/wp-content/themes/karaya_pc/img/comp/organization_01.jpg,http://www.karaya.co.jp/company_profile/
