@@ -10372,3 +10372,8 @@
 72,http://www.protherapist.or.jp/img/sites/protherapist/organization/photo01.jpg,http://www.protherapist.or.jp/organization
 72,https://link-p.org/lpw1/wp-content/uploads/2018/03/organization02.jpg,https://link-p.org/aboutus/organization/
 72,https://pbs.twimg.com/media/DdufqthU8AA8pki.jpg,https://twitter.com/who/status/998589225586094080
+73,http://www.nikkeikinholdings.co.jp/common/images/entry/tree_organization.gif,http://www.nikkeikinholdings.co.jp/company/soshikizu.html
+73,https://e-yota.com/wp-content/uploads/2017/12/organization_analysis_of_the_japanese_army_1-546x307.jpg,https://e-yota.com/book_report/organization_analysis_of_the_japanese_army/
+73,http://therapydog-a.org/wp-content/themes/therapydog/images/title_organization01.png,http://therapydog-a.org/organization/
+73,http://jifp.or.jp/img/page/organization_chart_sp.jpg,http://jifp.or.jp/organization/
+73,http://www.dia-s.co.jp/company/img/organization.png,http://www.dia-s.co.jp/company/
