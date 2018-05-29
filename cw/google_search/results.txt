@@ -7902,3 +7902,17 @@
 56,https://www.mitsubishichem-sys.co.jp/img/corporate/organization.png,https://www.mitsubishichem-sys.co.jp/corporate/organization.html
 56,http://www.ncgg.go.jp/hospital/overview/organization/zaitaku/aichiken/a_kyoten/h261031/images/bihoku0.jpg,http://www.ncgg.go.jp/hospital/overview/organization/zaitaku/aichiken/a_kyoten/h261031/tab8c_bihoku.html
 56,https://usami-net.com/assets/img/content/company/organization/organization_pc.png,https://usami-net.com/content/company/organization/
+57,https://i.pinimg.com/originals/85/1d/87/851d87ff9febf332c1922ae761a47516.jpg,https://www.pinterest.jp/pin/238127899021536747/
+57,http://www.sustainablebrands.jp/news/tr/detail/__icsFiles/afieldfile/2018/05/17/sekisui-chemical_csr-graphic.jpg,http://www.sustainablebrands.jp/news/tr/detail/1190449_2430.html
+57,http://marubeni.com/company/organization/img/img_04.png,http://marubeni.com/company/organization/
+57,https://image.slidesharecdn.com/20180214aws-blackbelt-organizations-180220120529/95/20180214-aws-black-belt-online-seminar-aws-organizations-46-638.jpg?cb=1519128494,https://www.slideshare.net/AmazonWebServicesJapan/20180214-aws-blackbeltorganizations
+57,https://shukatsu-mirai.com/wp-content/uploads/20180221172926/organization-2478211_960_720.jpg,https://shukatsu-mirai.com/archives/52574/organization-2478211_960_720
+57,https://product-senses.mazrica.com/wp-content/uploads/2017/10/organization-management-hero-1024x730.jpg,https://product-senses.mazrica.com/senseslab/knowledge/organization-management
+57,https://www.ra-ul.com/wp-content/themes/corp/images/organization1.jpg,https://www.ra-ul.com/corporate/organization
+57,https://c1.sfdcstatic.com/content/dam/blogs/jp/Blog-posts/sales_7s-for-change-organization_img_02.jpg,https://www.salesforce.com/jp/blog/2015/11/7s-for-change-organization.html
+57,https://cdn-images-1.medium.com/max/1600/1*YDsIJKGuyWOlSTQDhZu9aQ.png,https://organization.design/teal-organization-%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB-%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%AA%E3%81%AE%E3%81%8B-c72441673630
+57,http://www.homesinaclick.com/images/impact-organization.jpg,http://www.homesinaclick.com/
+57,https://writingexplained.org/wp-content/uploads/how-to-spell-organization.png,https://writingexplained.org/organisation-vs-organization-difference
+57,http://benrioffice.com/visa/TYPEorganizationcom1.jpg,http://benrioffice.com/visa/gaikoku29.html
+57,https://helpx.adobe.com/content/dam/help/ja/lightroom-cc/using/organize-photos/_jcr_content/main-pars/image_1572704503/v3_ni_organization.jpg,https://helpx.adobe.com/jp/lightroom-cc/using/organize-photos.html
+57,http://corporate-tech-blog-wp.s3-website-ap-northeast-1.amazonaws.com/tech/wp-content/uploads/2017/02/org03.png,http://blog.serverworks.co.jp/tech/2017/02/28/organizations/
