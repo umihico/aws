@@ -2,10 +2,17 @@ from chrome_wrapper import Chrome, Keys
 import csv_wrapper
 
 
-def gen_urls_func(i):
+def gen_urls_func(i, filename="results.txt"):
     list_of_list = csv_wrapper.xlsx_to_list_of_list("combined_names.xlsx")
-    search_word = [x[0] for x in list_of_list][i]
+    search_words = [x[0] for x in list_of_list]
+    try:
+        search_word = search_words[i]
+        if len(search_word) < 5:
+            raise IndexError()
+    except (IndexError, ) as e:
+        return
     del list_of_list
+    del search_words
     url = f"https://www.google.co.jp/search?q={search_word}&tbm=isch"
     c = Chrome()
     c.get(url)
@@ -78,6 +85,7 @@ def gen_urls_func(i):
                 break
             print(len_okay_soshikizu_bools,
                   len_soshikizu_bools, round(rate, ndigits=3))
+            print(f'all{len(results)}')
     except (Exception, ) as e:
         print(format_exc())
     finally:
@@ -88,7 +96,7 @@ def gen_urls_func(i):
         if len(results) > 0:
             text = '\n'.join(
                 [f'{i},{image_url},{hp_url}' for image_url, hp_url in results]) + '\n'
-            with open("results.txt", 'a') as f:
+            with open(filename, 'a') as f:
                 f.write(text)
 
 
