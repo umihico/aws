@@ -1,5 +1,6 @@
 from chrome_wrapper import Chrome, Keys
 import csv_wrapper
+import sys
 
 
 def gen_urls_func(i, filename="results.txt"):
@@ -101,9 +102,6 @@ def gen_urls_func(i, filename="results.txt"):
 
 
 if __name__ == '__main__':
-    pass
-
-    # import sys
-    # args = sys.argv
-    # this_filename, i = args
-    # gen_urls_func(int(i))
+    args = sys.argv
+    this_filename, i = args
+    gen_urls_func(int(i))

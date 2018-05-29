@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/bin/bash -eu
+read -p "input your gmail:" gmail
 sudo su -
 yum update
 yum -y install gcc gcc-c++ make git openssl-devel bzip2-devel zlib-devel readline-devel sqlite-devel
@@ -46,6 +47,8 @@ cd downloads/
 wget https://chromedriver.storage.googleapis.com/2.38/chromedriver_linux64.zip
 unzip chromedriver_linux64.zip
 mv chromedriver /usr/local/bin/
+mkdir fonts
+cd fonts/
 wget https://noto-website-2.storage.googleapis.com/pkgs/Noto-hinted.zip
 unzip Noto-hinted.zip
 mkdir -p /usr/share/fonts/opentype/noto
@@ -58,3 +61,12 @@ cd /home/ec2-user/
 mkdir github
 cd github/
 git clone https://github.com/umihico/aws.git
+cd /home/ec2-user/github/aws
+git remote set-url origin git@github.com:umihico/aws.git
+pip install r- req.txt
+ssh-keygen -t rsa -C $gmail
+eval `ssh-agent`
+ssh-add /root/.ssh/id_rsa
+cat /root/.ssh/id_rsa.pub
+read -p "press enter after above key is added on github..."
+ssh -T git@github.com
