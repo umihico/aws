@@ -7827,3 +7827,11 @@
 52,https://www.yomiko-crosscom.co.jp/profile/img/organization_chart.jpg,https://www.yomiko-crosscom.co.jp/profile/
 52,https://www.web-tac.co.jp/service/tmg/group/img/bnr_organization_01.jpg,https://www.web-tac.co.jp/service/tmg/group/organization.html
 52,https://www.vetmed.hokudai.ac.jp/organization/microbiol/images/img_1642-crop-u4899.jpg?crc=476567026,https://www.vetmed.hokudai.ac.jp/organization/microbiol/member.html
+53,http://www.fujips.co.jp/wp-content/uploads/2011/02/soshikizu1.gif,http://www.fujips.co.jp/company/organizational
+53,https://www.sic-net.co.jp/company/img/organization.gif,https://www.sic-net.co.jp/company/outline.html
+53,http://www.s-graphi.co.jp/company/img/img_overview_organization.png,http://www.s-graphi.co.jp/company/overview.php
+53,http://www.prebeam.jp/prewp/wp/wp-content/uploads/2015/03/about_organization.gif,http://www.prebeam.jp/about/outline/
+53,http://www.cepia.biz/images/organization.jpg,http://www.cepia.biz/about/
+53,http://www.nsi-ta.jp/images/tree.jpg,http://www.nsi-ta.jp/intro/organization
+53,http://www.fksm.jp/youran/img/organization/073229o.png,http://www.fksm.jp/youran/073229.html
+53,http://info.hiroshima-cu.ac.jp/wp_2018/wp-content/uploads/2018/04/Graph04.jpg,http://info.hiroshima-cu.ac.jp/about/organization/biomedical-information-sciences.html
