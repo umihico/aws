@@ -12397,3 +12397,8 @@
 118,http://ofrac.net/images/organization_2009.jpg,http://ofrac.net/members.html
 118,http://www.achewave.co.jp/files/img/company/data/img_organization.jpg,http://www.achewave.co.jp/company/data.html
 118,https://www.fujielectric.co.jp/about/corporate/organization/box/201604/img/linkmap_00.gif,https://www.fujielectric.co.jp/about/corporate/organization/network.html
+119,http://www.tenmaya.co.jp/company/img/chart2017.png,http://www.tenmaya.co.jp/company/organization.html
+119,http://www.zenbelg.jp/dnn/images/organization_photo.jpg,http://www.zenbelg.jp/dnn/organization.html
+119,https://www.tensho-plastic.co.jp/company/organization/images/figOrganization.gif,https://www.tensho-plastic.co.jp/company/organization/
+119,http://www.tenmaya-store.co.jp/common/img/company/organization/img01.jpg,http://www.tenmaya-store.co.jp/company/organization/
+119,http://neuromod.casi.osaka-u.ac.jp/images/organization_chart2012.jpg,http://neuromod.casi.osaka-u.ac.jp/organization.html
