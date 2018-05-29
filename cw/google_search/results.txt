@@ -7048,3 +7048,16 @@
 474,http://www.elizabethedersheim.com/wp-content/uploads/2013/05/Sloan.png,http://www.elizabethedersheim.com/category/organization/
 474,https://cnrit.tamu.edu/rlem/textbook/figure4.10.jpg,https://cnrit.tamu.edu/rlem/textbook/Chapter4.htm
 473,,
+37,https://www.meiwa.co.jp/company/images/organization_pc.png,https://www.meiwa.co.jp/company/organization.html
+37,http://www.meiwajisho.co.jp/company/img/organization-image3.gif,http://www.meiwajisho.co.jp/company/organization.html
+37,https://www.jeiu.or.jp/images/sub/sec/organization.jpg,https://www.jeiu.or.jp/what/organization/cat4/
+37,http://www.bosphorusorganization.com/1.jpg,http://www.bosphorusorganization.com/
+37,http://godsamhill.com/wp-content/uploads/2018/05/ph2018051801.jpg,http://godsamhill.com/author/godsamhill-site-administrator/
+37,http://godsamhill.com/wp-content/uploads/2018/05/ph2018050901.jpg,http://godsamhill.com/tag/japantop100waterfalls/
+37,https://www.hcdnet.org/archives/006/201708/b600319259d84e630b5e84318e11fe0e.png,https://www.hcdnet.org/organization/organization/hcd-975.html
+37,http://www.ndjk.info/images/association/organization_p01.gif,http://www.ndjk.info/association.html
+37,https://i.pinimg.com/736x/40/1f/95/401f955821591738eeafef911a1b58b1--organization-ideas-kitchen-organization.jpg,https://www.pinterest.com/tonchama/%E3%83%AA%E3%83%93%E3%83%B3%E3%82%B0-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3/
+37,http://kyowagousei.co.jp/common/images/top/img_organizationchart.gif,http://kyowagousei.co.jp/company.html
+37,http://godsamhill.com/wp-content/uploads/2018/01/ph2018012501.jpg,http://godsamhill.com/tag/chubu/
+37,http://godsamhill.com/wp-content/uploads/2017/09/ph2017091001.jpg,http://godsamhill.com/author/godsamhill-site-administrator/page/2/
+37,http://godsamhill.com/wp-content/uploads/2018/03/ph2018032101.jpg,http://godsamhill.com/date/2018/03/
