@@ -57,6 +57,7 @@ def get_raw_meta_texts(i):
     with open(f'result_report.txt', 'a') as f:
         text = f'index{i} wrote {len(raw_meta_texts)} meta datas'
         f.write(text)
+        print(text)
 
 
 def _save_as_excel(i, raw_meta_texts):
