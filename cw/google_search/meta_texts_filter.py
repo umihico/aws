@@ -51,7 +51,7 @@ def create_filtered_url():
                                                             image_url) in enumerate(hpurl_base_dict.items())]
     combined_text = '\n'.join(texts)
     with open('urls.txt', 'w') as f:
-        f.write(texts)
+        f.write(combined_text)
 
 
 if __name__ == '__main__':
