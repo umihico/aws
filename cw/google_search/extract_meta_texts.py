@@ -3,6 +3,7 @@ import csv_wrapper
 import sys
 from traceback import format_exc
 from time import sleep
+import os
 
 
 def _scroll_google_search_to_the_bottom(c):
@@ -60,7 +61,7 @@ def get_raw_meta_texts(i):
 
 def _save_as_excel(i, raw_meta_texts):
     print('saving as excel...')
-    filename = r'result\raw_meta_texts{i}.xlsx'
+    filename = f'result/raw_meta_texts{i}.xlsx'.replace('/', os.sep)
     list_of_list = map(lambda x: [x, ], raw_meta_texts)
     csv_wrapper.xlsx_from_list_of_list(filename, list_of_list)
 
