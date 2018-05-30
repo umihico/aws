@@ -60,7 +60,7 @@ def get_raw_meta_texts(i):
 
 def _save_as_excel(i, raw_meta_texts):
     print('saving as excel...')
-    filename = f'result\\raw_meta_texts{i}.xlsx'
+    filename = r'result\raw_meta_texts{i}.xlsx'
     list_of_list = map(lambda x: [x, ], raw_meta_texts)
     csv_wrapper.xlsx_from_list_of_list(filename, list_of_list)
 
