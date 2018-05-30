@@ -47,8 +47,8 @@ def create_filtered_url():
         old_image_url = hpurl_base_dict[hp_url] if hp_url in hpurl_base_dict else 'dummy'
         new_image_url = old_image_url if 'organization' in old_image_url else image_url
         hpurl_base_dict[hp_url] = new_image_url
-    texts = ['\t'.join([i, hp_url, image_url]) for i, (hp_url,
-                                                       image_url) in enumerate(hpurl_base_dict.items())]
+    texts = ['\t'.join([str(i), hp_url, image_url]) for i, (hp_url,
+                                                            image_url) in enumerate(hpurl_base_dict.items())]
     combined_text = '\n'.join(texts)
     with open('urls.txt', 'w') as f:
         f.write(texts)
