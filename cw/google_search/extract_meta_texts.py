@@ -15,11 +15,11 @@ def _scroll_google_search_to_the_bottom(c):
         new_height = c.execute_script("return document.body.scrollHeight")
         scrolling_cnt += 1
         print('scrolling...', scrolling_cnt)
-        next_buttons = c.xpath("//input[@id='smb']")
+        show_more_result_buttons = c.xpath("//input[@id='smb']")
         if new_height == last_height:
-            if len(next_buttons) > 0:
+            if len(show_more_result_buttons) > 0:
                 try:
-                    next_buttons[0].click()
+                    show_more_result_buttons[0].click()
                     sleep(1)
                 except (Exception, ) as e:
                     break
