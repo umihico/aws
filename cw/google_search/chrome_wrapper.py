@@ -10,6 +10,12 @@ from traceback import format_exc
 from time import sleep
 import re
 import datetime
+try:
+    import logging
+    from selenium.webdriver.remote.remote_connection import LOGGER
+    LOGGER.setLevel(logging.WARNING)
+except (Exception, ) as e:
+    print(e)
 
 
 def _clean_unused_cookies(cookies_base_path):
@@ -59,12 +65,15 @@ def _gen_ChromeOptions(userAgent, cookie_key, headless):
     options = webdriver.ChromeOptions()
     options.add_argument("--disable-infobars")
     options.add_argument("user-agent=" + userAgent)
-    """added to fix aws linux error"""
-    options.add_argument('--no-sandbox')
-    options.add_argument('--disable-gpu')
-    options.add_argument('--window-size=1280,1024')
-    options.add_argument("--headless")
-    """added to fix aws linux error end"""
+    try:
+        if os.uname()[0] == 'Linux':
+            options.add_argument('--no-sandbox')
+            options.add_argument('--disable-gpu')
+            options.add_argument('--window-size=1280,1024')
+            options.add_argument("--headless")
+    except (Exception, ) as e:
+        pass
+
     # options.add_extension(r"cboljikjholhcbejolmkhhpmomhcodkc.crx")
     if headless:
         options.add_argument("--headless")
