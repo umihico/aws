@@ -37,6 +37,7 @@ def _gen_url(i):
     if len(search_word) < 5:
         return False
     url = f"https://www.google.co.jp/search?q={search_word}&tbm=isch"
+    print(search_word)
     return url
 
 
