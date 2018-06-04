@@ -1,7 +1,6 @@
 #!/bin/bash -eu
 read -p "input your gmail:" gmail
-sudo su -
-yum update
+yum -y update
 yum -y install gcc gcc-c++ make git openssl-devel bzip2-devel zlib-devel readline-devel sqlite-devel
 git clone https://github.com/yyuu/pyenv.git /usr/bin/.pyenv
 cd /usr/bin/.pyenv
