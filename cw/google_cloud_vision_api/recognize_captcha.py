@@ -2,7 +2,7 @@ import ast
 # from mother import passwords
 import base64
 import json
-from requests import Request, Session
+from requests import post
 from passpacker import passwords
 
 
@@ -29,11 +29,7 @@ def recognize_captcha(image_path_list):
     headers = {'Content-Type': 'application/json'}
 
     print("Google Cloud Vision Api...", end='')
-    obj_session = Session()
-    obj_request = Request("POST", url + api_key,
-                          data=json_data, headers=headers)
-    obj_prepped = obj_session.prepare_request(obj_request)
-    obj_response = obj_session.send(obj_prepped, verify=True, timeout=60)
+    obj_response = post(url + api_key, data=json_data, json=headers)
     print("end request")
     try:
         obj_response.raise_for_status()
