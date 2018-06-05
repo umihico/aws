@@ -4,6 +4,7 @@ import base64
 import json
 from requests import post
 from passpacker import passwords
+from pprint import pprint
 
 
 def recognize_captcha(image_path_list):
@@ -36,21 +37,54 @@ def recognize_captcha(image_path_list):
         dumped = ast.literal_eval(obj_response.text)
         texts = []
         for response in dumped["responses"]:
-            try:
+            if response:
                 text = response["textAnnotations"][0]['description']
-            except (IndexError, ) as e:
-                texts.append("IndexError")
-            else:
                 texts.append(text)
-        return texts
+            else:
+                texts.append("empty")
+        return True, texts
     except (Exception, ) as e:
-        return obj_response.text
+        raise
+        print(obj_response.text)
+        return False, obj_response.text
         # return obj_response.text
+
+
+def gen_ocr_pair_on_new_xlsx(urls_xlsx_path, save_filename):
+    from csv_wrapper import xlsx_from_list_of_list, xlsx_to_list_of_list
+    from tqdm import tqdm
+    list_of_list = xlsx_to_list_of_list(urls_xlsx_path)
+    urls = [list_[0] for list_ in list_of_list]
+    del list_of_list
+    url_chunk = []
+    output_list_of_list = []
+    for url in tqdm(urls):
+        url_chunk.append(url)
+        if len(url_chunk) == 16 or url == urls[-1]:
+            success_bool, texts = recognize_captcha(url_chunk)
+            if success_bool:
+                pprint(texts)
+                output_list_of_list.extend(list(zip(url_chunk, texts)))
+                xlsx_from_list_of_list(save_filename, output_list_of_list)
+                url_chunk.clear()
+            else:
+                for url0 in url_chunk:
+                    success_bool, texts = recognize_captcha([url0, ])
+                    if success_bool:
+                        pprint(texts)
+                        output_list_of_list.append((url0, texts[0]))
+                    else:
+                        """this was the bad one. keep rest in chunk"""
+                        index_ = url_chunk.index(url0)
+                        url_chunk = url_chunk[index_ + 1:]
+                        if url != urls[-1]:
+                            break
 
 
 if __name__ == '__main__':
     text = recognize_captcha(
-        ["test.jpg", "test2.png", "http://www.tokai-com.co.jp/company/images/soshikizu_img01.gif", "large.jpg"])
+        # ["test.jpg", "test2.png", "http://www.tokai-com.co.jp/company/images/soshikizu_img01.gif", "large.jpg", "http://www.flowersinspace.com/img/lean-to-greenhouse/_thumb/mind-santa-barbara-montecito-x-greenhouse-santa-barbara-montecito-x-greenhouse-free-shipping_lean-to-greenhouse_250x250.jpg"])
+        ["test.jpg", "test2.png", "http://ceo.pathcreate.co.jp/wp-content/themes/origin/images/photo_iihara.jpg", ])
     print(text)
     # recognize_captcha("sosiki_tate.png")
     # load_data()
