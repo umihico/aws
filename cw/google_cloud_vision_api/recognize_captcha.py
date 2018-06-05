@@ -50,7 +50,7 @@ def recognize_captcha(image_path_list):
 
 if __name__ == '__main__':
     text = recognize_captcha(
-        ["test.jpg", "test2.png", "http://www.tokai-com.co.jp/company/images/soshikizu_img01.gif"])
+        ["test.jpg", "test2.png", "http://www.tokai-com.co.jp/company/images/soshikizu_img01.gif", "large.jpg"])
     print(text)
     # recognize_captcha("sosiki_tate.png")
     # load_data()
