@@ -1,0 +1,3 @@
+[submodule "cw/umihico_commons"]
+	path = cw/umihico_commons
+	url = git@github.com:umihico/umihico_commons.git
