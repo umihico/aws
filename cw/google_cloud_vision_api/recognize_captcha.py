@@ -7,12 +7,22 @@ from passpacker import passwords
 
 
 def recognize_captcha(image_path_list):
-    encode_files = [base64.b64encode(
-        open(path, 'rb').read()).decode("UTF-8") for path in image_path_list]
+    images = []
+    for path in image_path_list:
+        if path.startswith("http"):
+            image = {"source": {'imageUri': path}}
+        else:
+            image = {'content': base64.b64encode(
+                open(path, 'rb').read()).decode("UTF-8")}
+        images.append(image)
     request_list = [
-        {'image': {'content': ef}, 'features': [
+        {'image': image, 'features': [
             {'type': "TEXT_DETECTION", 'maxResults': 100}]}
-        for ef in encode_files]
+        for image in images]
+    # request_list = [
+    #     {'image': {'content': ef}, 'features': [
+    #         {'type': "TEXT_DETECTION", 'maxResults': 100}]}
+    # for ef in encode_files]
     json_data = json.dumps({'requests': request_list})
     url = "https://vision.googleapis.com/v1/images:annotate?key="
     api_key = passwords['google_cloud_vision_api']
@@ -43,7 +53,8 @@ def recognize_captcha(image_path_list):
 
 
 if __name__ == '__main__':
-    text = recognize_captcha(["test.jpg", "test2.png"])
+    text = recognize_captcha(
+        ["test.jpg", "test2.png", "http://www.tokai-com.co.jp/company/images/soshikizu_img01.gif"])
     print(text)
     # recognize_captcha("sosiki_tate.png")
     # load_data()
