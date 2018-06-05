@@ -15,7 +15,7 @@ def get_all_title():
         title = get_title(url)
         print(title)
         output.append([url, title])
-        if cnt > 1000:
+        if cnt > 1000 or url == urls[-1]:
             xlsx_from_list_of_list("titles.xlsx", output)
             cnt = 0
 
