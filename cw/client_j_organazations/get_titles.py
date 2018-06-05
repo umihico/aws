@@ -21,12 +21,12 @@ def get_all_title():
 
 
 def get_title(url):
-    res = get(url)
-    soup = BeautifulSoup(res.content, "html.parser")
-    if soup.title is None:
-        return ""
-    else:
+    try:
+        res = get(url)
+        soup = BeautifulSoup(res.content, "html.parser")
         return soup.title.string
+    except (Exception, ) as e:
+        return ""
 
 
 def test_get_title():
