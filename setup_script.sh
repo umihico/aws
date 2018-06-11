@@ -74,3 +74,10 @@ git config --global --add user.email umihico_dummy@users.noreply.github.com
 git config --global --add user.name umihico
 echo "ssh -T git@github.com"
 ssh -T git@github.com
+
+echo 'eval `ssh-agent`
+ssh-add /root/.ssh/id_rsa
+ssh -T git@github.com
+ssh-add /root/.ssh/bitbucket
+ssh -T git@bitbucket.org
+git push'>/home/ec2-user/git_connect.sh

@@ -22,7 +22,7 @@ def get_all_title():
 
 def get_title(url):
     try:
-        res = get(url)
+        res = get(url, timeout=3)
         soup = BeautifulSoup(res.content, "html.parser")
         return soup.title.string
     except (Exception, ) as e:
