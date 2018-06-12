@@ -1,5 +1,4 @@
 #!/bin/bash -eu
-read -p "input your gmail:" gmail
 << commentout
 commentout
 yum update
@@ -55,16 +54,15 @@ unzip Noto-hinted.zip
 mkdir -p /usr/share/fonts/opentype/noto
 cp *otf *ttf /usr/share/fonts/opentype/noto
 fc-cache -f -v # optional
-pip install selenium
 pip install --upgrade pip
+pip install selenium
 cd /home/ec2-user/
 mkdir github
-cd github/
-git clone https://github.com/umihico/aws.git
-cd /home/ec2-user/github/aws
-git remote set-url origin git@github.com:umihico/aws.git
+cd ./github
+git clone git@github.com:umihico/aws.git
+cd ./aws
 pip install -r aws_requirements.txt
-ssh-keygen -t rsa -C $gmail
+ssh-keygen -t rsa -C
 eval `ssh-agent`
 ssh-add /root/.ssh/id_rsa
 cat /root/.ssh/id_rsa.pub
@@ -81,3 +79,7 @@ ssh -T git@github.com
 ssh-add /root/.ssh/bitbucket
 ssh -T git@bitbucket.org
 git push'>/home/ec2-user/git_connect.sh
+export PYTHONPATH="/home/ec2-user/github"
+cp /usr/share/zoneinfo/Japan ./
+mv Japan localtime
+mv ./localtime /etc/localtime

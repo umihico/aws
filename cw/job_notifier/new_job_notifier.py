@@ -73,7 +73,7 @@ def main():
     cw_api.post_in_mychat('job_notifier started.')
     rss_urls_with_desc = {
         "https://crowdworks.jp/public/jobs.rss": 'all',
-        "https://crowdworks.jp/public/jobs/category/54/u/all.rss": 'simple_data_collecting'}
+        "https://crowdworks.jp/public/jobs/category/249.rss": 'simple_data_collecting'}
 
     try:
         while True:
