@@ -48,7 +48,7 @@ def filter_keyword(entries, genre):
 def post_entries(cw_api, entries):
     for e in entries:
         cw_api.post_in_mychat(
-            '\n'.join([e['title'], e['link'], e['description']]))
+            '\n'.join([e['title'], e['link'], e['description'][:200]]))
 
 
 def to_datetime(entry):
@@ -70,6 +70,7 @@ def most_recent_date(entries):
 
 def main():
     cw_api = ChatworkApi()
+    cw_api.post_in_mychat('job_notifier started.')
     rss_urls_with_desc = {
         "https://crowdworks.jp/public/jobs.rss": 'all',
         "https://crowdworks.jp/public/jobs/category/54/u/all.rss": 'simple_data_collecting'}
