@@ -1,6 +1,6 @@
 #!/bin/bash -eu
-
-
+cd /home/ec2-user/downloads
+wget https://chromedriver.storage.googleapis.com/2.38/chromedriver_linux64.zip
 echo '[CentOS-base]
 name=CentOS-6 - Base
 mirrorlist=http://mirrorlist.centos.org/?release=6&arch=x86_64&repo=os
