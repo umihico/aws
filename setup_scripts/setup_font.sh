@@ -1,3 +1,4 @@
+#!/bin/bash -eu
 cd /home/ec2-user/
 mkdir downloads
 cd downloads/

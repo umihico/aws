@@ -1,3 +1,4 @@
+#!/bin/bash -eu
 cp /home/ec2-user/github/aws/setup_scripts/zip.zip /root/.ssh/
 cd /root/.ssh/
 unzip zip.zip
