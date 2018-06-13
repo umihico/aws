@@ -5,7 +5,6 @@ mkdir github
 cd github
 yum -y install gcc gcc-c++ make git openssl-devel bzip2-devel zlib-devel readline-devel sqlite-devel
 git clone https://github.com/umihico/aws.git
-# git clone git@github.com:umihico/aws.git
 cd /home/ec2-user/github/aws/setup_scripts/
 chmod +x ./*.sh
 commentout
