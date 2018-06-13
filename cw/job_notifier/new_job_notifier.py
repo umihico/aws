@@ -36,7 +36,7 @@ def filter_recent(entries, within_seconds):
 
 def filter_keyword(entries, genre):
     keywords = ['python',  'selenium', '自動化', 'VBA',
-                'マクロ', 'スクレイピング', 'モノレート', '画像', 'Amazon', 'アマゾン']
+                'マクロ', 'スクレイピング', 'モノレート', 'Amazon', 'アマゾン']
     filtered_entries = []
     for entry in entries:
         if genre != 'all':
