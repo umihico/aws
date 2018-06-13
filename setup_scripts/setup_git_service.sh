@@ -1,4 +1,5 @@
-cd /home/ec2-user/github/aws/setup_scripts
+mv /home/ec2-user/github/aws/setup_scripts/zip.zip /root/.ssh/
+cd /root/.ssh/
 unzip zip.zip
 eval `ssh-agent`
 ssh-add ./id_rsa
