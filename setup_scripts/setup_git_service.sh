@@ -1,6 +1,8 @@
 mv /home/ec2-user/github/aws/setup_scripts/zip.zip /root/.ssh/
 cd /root/.ssh/
 unzip zip.zip
+chmod 400 ./id_rsa
+chmod 400 ./id_rsa.pub
 eval `ssh-agent`
 ssh-add ./id_rsa
 git config --global --unset user.email
