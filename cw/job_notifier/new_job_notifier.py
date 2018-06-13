@@ -6,12 +6,18 @@ from umihico_commons.pickle_wrapper import save, load
 from umihico_commons.notifier_via_chatwork import ChatworkApi
 
 
-def to_entries(rss_url):
+def delete_deplicate(all_entries):
+    url_base = {e['link']: e for e in all_entries}
+    return list(url_base.values())
+
+
+def to_entries(rss_url, genre):
     raw_parsed = parse(rss_url)
     entries = []
     keys = 'title,link,description,published,published_parsed'.split(",")
     for raw_entry in raw_parsed.entries:
         entry = {key: getattr(raw_entry, key) for key in keys}
+        entry['genre'] = genre
         entries.append(entry)
     return entries
 
@@ -23,32 +29,33 @@ def filter_recent(entries, within_seconds):
         now = datetime.today()
         delta = now - published_date
         delta_seconds = delta.total_seconds()
-        if delta_seconds < within_seconds:
+        if delta_seconds < within_seconds * 2:
             filtered_entries.append(entry)
     return filtered_entries
 
 
 def filter_keyword(entries, genre):
-    if genre == "simple_data_collecting":
-        filtered_entries = entries[:]
-        return filtered_entries
-    elif genre == 'all':
-        filtered_entries = []
-        keywords = ['python',  'selenium', '自動化', 'VBA',
-                    'マクロ', 'スクレイピング', 'モノレート', '画像', 'Amazon', 'アマゾン']
-        for entry in entries:
-            entry_word = entry['title'].lower() + entry['description'].lower()
-            if any(bool(keyword in entry_word) for keyword in keywords):
+    keywords = ['python',  'selenium', '自動化', 'VBA',
+                'マクロ', 'スクレイピング', 'モノレート', '画像', 'Amazon', 'アマゾン']
+    filtered_entries = []
+    for entry in entries:
+        if genre != 'all':
+            entry['matched_keywords'] = genre
+            filtered_entries.append(entry)
+        else:
+            all_words = entry['title'].lower() + entry['description'].lower()
+            matched_keywords = [
+                keyword for keyword in keywords if keyword in all_words]
+            if matched_keywords:
+                entry['matched_keywords'] = '/'.join(matched_keywords)
                 filtered_entries.append(entry)
-        return filtered_entries
-    else:
-        raise Exception("unknown genre:{genre}")
+    return filtered_entries
 
 
 def post_entries(cw_api, entries):
     for e in entries:
         cw_api.post_in_mychat(
-            '\n'.join([e['title'], e['link'], e['description'][:200]]))
+            '\n'.join([e['title'], e['matched_keywords'], e['link'], e['description'][:200]]))
 
 
 def to_datetime(entry):
@@ -74,25 +81,28 @@ def main():
     rss_urls_with_desc = {
         "https://crowdworks.jp/public/jobs.rss": 'all',
         "https://crowdworks.jp/public/jobs/category/249.rss": 'simple_data_collecting'}
-
-    try:
-        while True:
-            refresh_frequency = 60
-            print(datetime.today())
-            for rss_url, genre in rss_urls_with_desc.items():
-                entries = to_entries(rss_url)
-                print(genre, len(entries))
-                print("most_recent_date", most_recent_date(entries))
-                entries = filter_recent(
-                    entries, within_seconds=refresh_frequency)
-                print(genre, 'recent', len(entries))
-                entries = filter_keyword(
-                    entries, genre)
-                print(genre, 'keyword', len(entries))
-                post_entries(cw_api, entries)
-            sleep(refresh_frequency)
-    except KeyboardInterrupt:
-        pass
+    prev_entry_urls = set()
+    while True:
+        refresh_frequency = 60
+        print(datetime.today())
+        all_entries = []
+        for rss_url, genre in rss_urls_with_desc.items():
+            genre_entries = to_entries(rss_url, genre)
+            print(genre, len(genre_entries))
+            print("most_recent_date", most_recent_date(genre_entries))
+            genre_entries = filter_recent(
+                genre_entries, within_seconds=refresh_frequency)
+            print(genre, 'recent', len(genre_entries))
+            genre_entries = filter_keyword(
+                genre_entries, genre)
+            print(genre, 'keyword', len(genre_entries))
+            all_entries.extend(genre_entries)
+        all_entries = delete_deplicate(all_entries)
+        new_entries = [e for e in all_entries if e['link']
+                       not in prev_entry_urls]
+        prev_entry_urls = set(e['link'] for e in new_entries)
+        post_entries(cw_api, new_entries)
+        sleep(refresh_frequency)
 
 
 def _test_post_chat():
