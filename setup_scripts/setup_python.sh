@@ -16,5 +16,6 @@ python -V
 pyenv global 3.6.5
 python -V
 cd /home/ec2-user/github/aws
+pip install --upgrade pip
 pip install -r aws_requirements.txt
 export PYTHONPATH="/home/ec2-user/github"

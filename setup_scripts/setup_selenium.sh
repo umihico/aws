@@ -23,5 +23,5 @@ gpgkey=http://mirror.centos.org/centos/RPM-GPG-KEY-CentOS-6' > /etc/yum.repos.d/
 rpm --import http://mirror.centos.org/centos/RPM-GPG-KEY-CentOS-6
 yum -y install GConf2
 
-pip install --upgrade pip
+
 pip install selenium
