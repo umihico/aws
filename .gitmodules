@@ -1,0 +1,3 @@
+[submodule "setup_scripts"]
+	path = setup_scripts
+	url = git@gist.github.com:0806b81a2c5143ee3c0ae843f7c676fc.git
