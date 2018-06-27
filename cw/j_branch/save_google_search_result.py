@@ -13,7 +13,7 @@ def _load_data():
 
 def main():
     keywords = _load_data()
-    for i, keyword in tqdm(enumerate(keywords)):
+    for i, keyword in tqdm(enumerate(keywords[4:])):
         print(i, keyword)
         filename_num = str(i).zfill(3)
         filename = f"{filename_num}{keyword}.xlsx"
