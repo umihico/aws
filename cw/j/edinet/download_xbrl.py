@@ -53,8 +53,10 @@ def download(url):
 
 def main():
     urls = gen_urls()
-    for url in urls:
+    for i, url in enumerate(urls):
+        print(i, url)
         download(url)
+        print(i, url)
 
 
 if __name__ == '__main__':
