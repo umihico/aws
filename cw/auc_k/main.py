@@ -1,5 +1,6 @@
 from umihico_commons.chrome_wrapper import Chrome
 from umihico_commons.requests_common import headers_dict_user_agent
+from umihico_commons.xlsx_wrapper import load_xlsx, to_xlsx
 from requests import get
 from PIL import Image
 from io import BytesIO
@@ -10,12 +11,12 @@ from datetime import datetime, timedelta
 
 
 def date2text(datetime_):
-    return datetime_.strftime("%Y%m%d")
+    return datetime_.strftime("%Y%m%d%H%M")
 
 
 def text2date(text):
-    s = "{0:-08d}".format(text)
-    return datetime(year=int(s[0:4]), month=int(s[4:6]), day=int(s[6:8]))
+    s = "{0:-12d}".format(text)
+    return datetime(year=int(s[0:4]), month=int(s[4:6]), day=int(s[6:8]), hour=s[8:10], minute=s[10:12])
 
 
 def to_date(date_raw_text, time_raw_text):
@@ -23,18 +24,33 @@ def to_date(date_raw_text, time_raw_text):
     hour, minute = [int(x.strip()) for x in time_raw_text.split(':')]
     year = datetime.now().year
     date = datetime(year=year, month=month, day=day, hour=hour, minute=minute)
-
     if date > datetime.now():
         date -= timedelta(years=1)
-    str_date = date.strftime("%Y%m%d")
+    str_date = date2text(date)
     return str_date
 
-    days = (datetime.now() - date).days
-    return days
+
+def main():
+    try:
+        b = load_xlsx("place.xlsx")[0][0]
+    except (Exception, ) as e:
+        b = 1
+    try:
+        saved_data = load_xlsx("data.xlsx")
+    except (Exception, ) as e:
+        saved_data = []
+    base_itemlist_url = "https://auctions.yahoo.co.jp/closedsearch/closedsearch?select=06&ei=UTF-8&n=100&auccat=26318&istatus=1"
+    urls = next_page_url_generator(base_itemlist_url, first_i=b)
+    for url in urls:
+        try:
+            itemlist = get_itemlist(url)
+        except (Exception, ) as e:
+            from traceback import format_exc
+            print(format_exc())
+            break
 
 
 def to_list_category(category_raw_string):
-
     category_raw_string = category_raw_string.replace("\n", "__n__")
     category_raw_string = category_raw_string.replace("\xa0", "__xa0__")
     category_raw_string = category_raw_string.replace(
@@ -84,12 +100,13 @@ def get_image(image_url):
     return image
 
 
-def next_page_url_generator(base_url, n=100):
-    yield base_url
-    cnt = 1
+def next_page_url_generator(base_url, first_i=1, n=100):
+    cnt = first_i
     while True:
         cnt += n
-        yield base_url + f"&b={cnt}"
+        url = base_url + f"&b={cnt}"
+        url = url.replace("&b=1", "")
+        yield url
 
 
 if __name__ == '__main__':
