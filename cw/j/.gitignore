@@ -1,0 +1,7 @@
+*.xlsx
+*.xlsm
+*.htm
+*.zip
+*.docx
+*.pyc
+debug.log
