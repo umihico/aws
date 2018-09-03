@@ -9,7 +9,7 @@ from multiprocessing import Pool, cpu_count
 
 def main():
     # paths = gen_path_list(filename="007_merged_html_paths.csv")
-    paths = [x[0] for x in load_xlsx("009_metadata_only_new.xlsx")]
+    paths = [x[0] for x in load_xlsx("009_metadata_only_old.xlsx")]
     _text_rows = load_xlsx("003_images_text_dict.xlsx")
     text_dict = {image_path: text for image_path, text in _text_rows}
     _title_rows = load_xlsx("008_image_titles.xlsx")
